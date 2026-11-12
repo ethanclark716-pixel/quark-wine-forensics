@@ -20,9 +20,6 @@ Quark PC 7.4.x (Alibaba's cloud drive client, rebuilt in 2026-10 on their in-hou
 
 中文摘要：新版夸克在 Wine 下没有报错，也没有崩溃对话框——121~145 个进程在约两分钟内全部退出，退出码均为 0，日志终止在渲染进程初始化中途，未留崩溃转储。另有一个具体的加载缺陷：AI 引擎的 `onnxruntime.dll` 报 `dbghelp.dll not found`，而该文件实际存在于容器中。
 
-> 标题未称"首次"：截至 2026-11-13，我们在 WineHQ、GitHub、中文社区检索后未找到其他公开的现场记录，故发布本文；如有更早记录欢迎指出。
-> Note on the title: we deliberately didn't claim "first". As of 2026-11-13 our search of WineHQ, GitHub and Chinese communities found no other public record of this failure; if an earlier one exists, please point it out.
-
 ---
 
 ## Environment / 环境
