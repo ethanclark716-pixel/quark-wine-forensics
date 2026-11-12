@@ -1,0 +1,2 @@
+[1113/040237.507:INFO:quark\rollback\quark_rollback_manager.cc:225] begin check current version need rollback
+[1113/040237.510:INFO:quark\rollback\quark_rollback_manager.cc:237] rollback tag file is not exist

@@ -1,0 +1,1751 @@
+Running as unit: quark-install2.service; invocation ID: 622b14c31e7d4fb0abea3e2aec2bd7b0
+002c:fixme:winediag:loader_init wine-staging 11.21 is a testing version containing experimental patches.
+002c:fixme:winediag:loader_init Please mention your exact version when filing bug reports on winehq.org.
+002c:err:wineboot:process_run_key Error running cmd L"C:\\windows\\system32\\winemenubuilder.exe -a -r" (2).
+00e0:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+00e8:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+MESA-EGL: warning: pci id for fd 29: 10de:2191, driver (null)
+pci id for fd 31: 10de:2191, driver (null)
+pci id for fd 32: 10de:2191, driver (null)
+MESA-EGL: warning: egl: failed to create dri2 screen
+MESA-EGL: warning: pci id for fd 29: 10de:2191, driver (null)
+pci id for fd 31: 10de:2191, driver (null)
+pci id for fd 32: 10de:2191, driver (null)
+MESA-EGL: warning: egl: failed to create dri2 screen
+MESA-EGL: warning: pci id for fd 29: 10de:2191, driver (null)
+MESA-EGL: warning: pci id for fd 29: 10de:2191, driver (null)
+pci id for fd 31: 10de:2191, driver (null)
+pci id for fd 32: 10de:2191, driver (null)
+MESA-EGL: warning: egl: failed to create dri2 screen
+MESA-EGL: warning: pci id for fd 29: 10de:2191, driver (null)
+pci id for fd 31: 10de:2191, driver (null)
+pci id for fd 32: 10de:2191, driver (null)
+MESA-EGL: warning: egl: failed to create dri2 screen
+MESA-EGL: warning: pci id for fd 29: 10de:2191, driver (null)
+002c:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+00d8:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+013c:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+013c:fixme:file:NtLockFile I/O completion on lock not implemented yet
+013c:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+0144:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+0144:fixme:urlmon:InternetBindInfo_GetBindString not supported string type 20
+0144:fixme:file:NtLockFile I/O completion on lock not implemented yet
+0144:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+0154:fixme:file:NtLockFile I/O completion on lock not implemented yet
+0154:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+0154:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+015c:fixme:file:NtLockFile I/O completion on lock not implemented yet
+015c:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+015c:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+0164:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+016c:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+015c:fixme:msi:internal_ui_handler internal UI not implemented for message 0x0b000000 (UI level = 5)
+015c:fixme:msi:internal_ui_handler internal UI not implemented for message 0x0b000000 (UI level = 5)
+018c:fixme:file:NtLockFile I/O completion on lock not implemented yet
+018c:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+018c:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+0194:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+019c:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+01a4:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+018c:fixme:msi:internal_ui_handler internal UI not implemented for message 0x0b000000 (UI level = 5)
+018c:fixme:msi:internal_ui_handler internal UI not implemented for message 0x0b000000 (UI level = 5)
+0144:fixme:msi:internal_ui_handler internal UI not implemented for message 0x0b000000 (UI level = 1)
+0144:fixme:msi:internal_ui_handler internal UI not implemented for message 0x0b000000 (UI level = 1)
+01ac:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+01b8:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+01c0:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+0024:fixme:winediag:loader_init wine-staging 11.21 is a testing version containing experimental patches.
+0024:fixme:winediag:loader_init Please mention your exact version when filing bug reports on winehq.org.
+01c8:fixme:ole:CoInitializeSecurity 0000000000000000, -1, 0000000000000000, 0000000000000000, 0, 3, 0000000000000000, 0, 0000000000000000 stub
+01cc:fixme:kernelbase:AppPolicyGetThreadInitializationType FFFFFFFFFFFFFFFA, 0000000000C2FF50
+01c8:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+00e8:fixme:explorer:webbrowser_QueryInterface (0000000140023220)->({00000003-0000-0000-c000-000000000046} 000000000021DDC8) interface not supported
+00e8:fixme:explorer:webbrowser_QueryInterface (0000000140023220)->({00000003-0000-0000-c000-000000000046} 000000000021DCD8) interface not supported
+00e8:fixme:explorer:webbrowser_QueryInterface (0000000140023220)->({00000019-0000-0000-c000-000000000046} 00000000008787C0) interface not supported
+0200:fixme:ole:CoInitializeSecurity 0000000000000000, -1, 0000000000000000, 0000000000000000, 0, 3, 0000000000000000, 0, 0000000000000000 stub
+0204:fixme:kernelbase:AppPolicyGetThreadInitializationType FFFFFFFFFFFFFFFA, 0000000000C2FF50
+0200:err:ole:com_get_class_object apartment not initialised
+0200:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+01c8:fixme:kernelbase:AppPolicyGetProcessTerminationMethod FFFFFFFFFFFFFFFA, 000000000011FE80
+020c:fixme:winediag:loader_init wine-staging 11.21 is a testing version containing experimental patches.
+020c:fixme:winediag:loader_init Please mention your exact version when filing bug reports on winehq.org.
+020c:fixme:kernelbase:AppPolicyGetThreadInitializationType FFFFFFFFFFFFFFFA, 0000000002A2FF50
+0248:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+0250:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+0250:fixme:wtsapi:WTSRegisterSessionNotification Stub 000700A4 0x00000000
+0250:fixme:uxtheme:BufferedPaintInit Stub ()
+0250:fixme:win:DisableProcessWindowsGhosting : stub
+0250:fixme:graphics:ShutdownBlockReasonDestroy (000700A4): stub
+0250:fixme:graphics:ShutdownBlockReasonCreate (000700A4, L"\6b63\5728\5b89\88c5"): stub
+0250:fixme:rstrtmgr:RmStartSession 006D678C, 0, 006D6790 stub!
+0250:fixme:ver:GetCurrentPackageId (0036F4C8 00000000): stub
+0254:fixme:winhttp:request_set_option dwAccessType 0 lpszProxy (null) lpszProxyBypass (null)
+0254:fixme:winhttp:request_set_option dwAccessType 0 lpszProxy (null) lpszProxyBypass (null)
+0250:fixme:graphics:ShutdownBlockReasonDestroy (000700A4): stub
+0250:fixme:graphics:ShutdownBlockReasonCreate (000700A4, L"\6b63\5728\5b89\88c5 \5938\514b\3002"): stub
+0250:fixme:system:EnableNonClientDpiScaling (000100BA): stub
+0250:fixme:msg:ChangeWindowMessageFilterEx 000100BA c04f 1 00000000
+0250:fixme:system:EnableNonClientDpiScaling (000200BA): stub
+0250:fixme:msg:ChangeWindowMessageFilterEx 000200BA c04f 1 00000000
+0250:fixme:msg:ChangeWindowMessageFilterEx 000100C4 c04f 1 00000000
+0250:fixme:msg:ChangeWindowMessageFilterEx 000200C4 c04f 1 00000000
+0250:fixme:shell:SHAutoComplete stub
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:gdiplus:resample_bitmap_pixel_premult Unimplemented interpolation 6
+025c:fixme:winhttp:request_set_option dwAccessType 0 lpszProxy (null) lpszProxyBypass (null)
+0250:fixme:rstrtmgr:RmRegisterResources -559038737, 123, 01A9FDD0, 0, 00000000, 0, 00000000 stub!
+0250:fixme:rstrtmgr:RmGetList -559038737, 0036FE34, 0036FE38, 01A9FDD0, 0036FE30 stub!
+0254:fixme:winhttp:request_set_option dwAccessType 0 lpszProxy (null) lpszProxyBypass (null)
+025c:fixme:winhttp:request_set_option dwAccessType 0 lpszProxy (null) lpszProxyBypass (null)
+0254:fixme:winhttp:request_set_option dwAccessType 0 lpszProxy (null) lpszProxyBypass (null)
+0250:fixme:explorerframe:taskbar_list_SetProgressValue iface 00D4E810, hwnd 000700A4, ullCompleted 0, ullTotal 4f1 stub!
+0250:fixme:sfc:SfcIsFileProtected (00000000, L"C:\\users\\cyc-mint\\AppData\\Local\\Programs\\Quark\\unins000.exe") stub
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:uxtheme:DrawThemeTextEx unsupported flags 0x00002a01
+0250:fixme:shell:propertystore_SetValue (00C7C518)->(006CD004 0036FC14): stub
+0250:fixme:shell:propertystore_Commit (00C7C518): stub
+0250:fixme:shell:propertystore_SetValue (00C7C518)->(006CD004 0036FC14): stub
+0250:fixme:shell:propertystore_Commit (00C7C518): stub
+0250:fixme:explorerframe:taskbar_list_SetProgressState iface 00D4E810, hwnd 000700A4, flags 0 stub!
+025c:fixme:winhttp:request_set_option dwAccessType 0 lpszProxy (null) lpszProxyBypass (null)
+0254:fixme:winhttp:request_set_option dwAccessType 0 lpszProxy (null) lpszProxyBypass (null)
+0274:fixme:heap:RtlSetHeapInformation HEAP_INFORMATION_CLASS 1 not implemented!
+0274:fixme:process:GetProcessMitigationPolicy (FFFFFFFFFFFFFFFF, 4, 000000000011E464, 4): stub
+0274:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {00000000-0000-0000-0000-000000000000}
+025c:fixme:winhttp:request_set_option dwAccessType 0 lpszProxy (null) lpszProxyBypass (null)
+0254:fixme:winhttp:request_set_option dwAccessType 0 lpszProxy (null) lpszProxyBypass (null)
+0250:fixme:process:GetProcessMitigationPolicy (FFFFFFFF, 4, 0036F2BC, 4): stub
+025c:fixme:winhttp:request_set_option dwAccessType 0 lpszProxy (null) lpszProxyBypass (null)
+02a8:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+0254:fixme:winhttp:request_set_option dwAccessType 0 lpszProxy (null) lpszProxyBypass (null)
+02b8:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+0250:fixme:rstrtmgr:RmEndSession 3735928559 stub!
+02c0:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+02c0:fixme:heap:RtlSetHeapInformation HEAP_INFORMATION_CLASS 1 not implemented!
+02c0:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {00000000-0000-0000-0000-000000000000}
+02c0:fixme:ver:GetCurrentPackageId (000000000011EDD0 0000000000000000): stub
+02cc:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+02cc:fixme:heap:RtlSetHeapInformation HEAP_INFORMATION_CLASS 1 not implemented!
+02cc:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {00000000-0000-0000-0000-000000000000}
+02cc:fixme:process:SetProcessShutdownParameters (00000100, 00000001): partial stub.
+02d8:fixme:file:NtLockFile I/O completion on lock not implemented yet
+02c0:fixme:file:NtLockFile I/O completion on lock not implemented yet
+02c0:fixme:heap:RtlSetHeapInformation HEAP_INFORMATION_CLASS 1 not implemented!
+02c0:fixme:ole:global_options_Set 0000000000734D10, 1, 1.
+02f8:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+02f4:fixme:ver:GetCurrentPackageId (00000000014CE6C0 0000000000000000): stub
+02f4:fixme:wbemprox:client_security_SetBlanket 00006FFFFE30B010, 0000000000764DD0, 10, 0, (null), 3, 3, 0000000000000000, 0
+02f4:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+032c:fixme:winsock:WSALookupServiceBeginW (00000000024CF0D0 0xff0 00000000024CF148) Stub!
+032c:fixme:wlanapi:WlanEnumInterfaces (0000000000000001, 0000000000000000, 00000000024CEB88) semi-stub
+0330:fixme:process:GetProcessMitigationPolicy (FFFFFFFFFFFFFFFF, 4, 00000000025CED68, 4): stub
+02f4:err:ole:create_server class {aafe3a0e-952f-5312-9e85-35f2130387a7} not registered
+02f4:err:ole:com_get_class_object no class object {aafe3a0e-952f-5312-9e85-35f2130387a7} could be created for context 0x4
+02f4:err:ole:create_server class {aafe3a0e-952f-5312-9e85-35f2130387a7} not registered
+02f4:err:ole:com_get_class_object no class object {aafe3a0e-952f-5312-9e85-35f2130387a7} could be created for context 0x4
+02f4:err:ole:create_server class {aafe3a0e-952f-5312-9e85-35f2130387a7} not registered
+02f4:err:ole:com_get_class_object no class object {aafe3a0e-952f-5312-9e85-35f2130387a7} could be created for context 0x4
+032c:fixme:winsock:setsockopt Ignoring SO_RANDOMIZE_PORT
+0344:fixme:winsock:WSAIoctl unimplemented ioctl _WSAIORW(IOC_WS2, 25)
+0344:fixme:winsock:server_ioctl_sock Unsupported ioctl 0x120348 (device=0x12 access=0 func=0xd2 method=0)
+035c:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0250:fixme:graphics:ShutdownBlockReasonDestroy (000700A4): stub
+0250:fixme:wtsapi:WTSUnRegisterSessionNotification Stub 000700A4
+0250:fixme:uxtheme:BufferedPaintUnInit Stub ()
+0398:fixme:heap:RtlSetHeapInformation HEAP_INFORMATION_CLASS 1 not implemented!
+0398:fixme:process:GetProcessMitigationPolicy (FFFFFFFFFFFFFFFF, 4, 000000000011E464, 4): stub
+0398:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {00000000-0000-0000-0000-000000000000}
+02f4:fixme:taskschd:Principal_put_UserId 0000000002F05AD0,L"CYCMINT-911\\cyc-mint": stub
+02f4:fixme:taskschd:Principal_put_LogonType 0000000002F05AD0,3: stub
+02f8:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+035c:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+02c0:fixme:kernelbase:AppPolicyGetProcessTerminationMethod FFFFFFFFFFFFFFFA, 000000000011FE80
+02cc:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {00000000-0000-0000-0000-000000000000}
+02cc:fixme:kernelbase:AppPolicyGetProcessTerminationMethod FFFFFFFFFFFFFFFA, 000000000011FE80
+0274:fixme:kernelbase:AppPolicyGetProcessTerminationMethod FFFFFFFFFFFFFFFA, 000000000011FE80
+03a0:fixme:ver:GetCurrentPackageId (000000000081E5F0 0000000000000000): stub
+03e0:fixme:file:NtLockFile I/O completion on lock not implemented yet
+03dc:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+03c4:fixme:wbemprox:client_security_SetBlanket 00006FFFFE30B010, 0000000000E27C90, 10, 0, (null), 3, 3, 0000000000000000, 0
+03c4:fixme:process:SetProcessShutdownParameters (00000100, 00000001): partial stub.
+03a0:fixme:seh:WerRegisterRuntimeExceptionModule (L"C:\\users\\cyc-mint\\AppData\\Local\\Programs\\Quark\\7.4.9.1045\\quark_wer.dll", 00006FFFFC2838F0) stub
+03a0:fixme:file:NtLockFile I/O completion on lock not implemented yet
+03a0:fixme:virtual:prefetch_memory (process=0xffffffffffffffff,flags=0) NtSetInformationVirtualMemory(VmPrefetchInformation) partial stub
+040c:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+040c:fixme:heap:RtlSetHeapInformation HEAP_INFORMATION_CLASS 1 not implemented!
+040c:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {00000000-0000-0000-0000-000000000000}
+040c:fixme:ver:GetCurrentPackageId (000000000011EDD0 0000000000000000): stub
+0200:fixme:kernelbase:AppPolicyGetProcessTerminationMethod FFFFFFFFFFFFFFFA, 000000000011FE80
+041c:fixme:winediag:loader_init wine-staging 11.21 is a testing version containing experimental patches.
+041c:fixme:winediag:loader_init Please mention your exact version when filing bug reports on winehq.org.
+0418:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+0418:fixme:heap:RtlSetHeapInformation HEAP_INFORMATION_CLASS 1 not implemented!
+0418:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {00000000-0000-0000-0000-000000000000}
+0418:fixme:process:SetProcessShutdownParameters (00000100, 00000001): partial stub.
+0424:fixme:file:NtLockFile I/O completion on lock not implemented yet
+040c:fixme:file:NtLockFile I/O completion on lock not implemented yet
+040c:fixme:heap:RtlSetHeapInformation HEAP_INFORMATION_CLASS 1 not implemented!
+040c:fixme:ole:global_options_Set 0000000000737940, 1, 1.
+0444:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0440:fixme:ver:GetCurrentPackageId (00000000014CE6C0 0000000000000000): stub
+0440:fixme:wbemprox:client_security_SetBlanket 00006FFFFE30B010, 0000000000765060, 10, 0, (null), 3, 3, 0000000000000000, 0
+0440:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+047c:fixme:winsock:WSALookupServiceBeginW (00000000024CF0D0 0xff0 00000000024CF148) Stub!
+047c:fixme:wlanapi:WlanEnumInterfaces (0000000000000001, 0000000000000000, 00000000024CEB88) semi-stub
+03a0:fixme:powrprof:PowerRegisterSuspendResumeNotification (0x00000002,000000000081EF00,000000000081EF38) stub!
+03a0:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+03a0:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0480:fixme:process:GetProcessMitigationPolicy (FFFFFFFFFFFFFFFF, 4, 00000000025CE7E8, 4): stub
+03a0:fixme:heap:RtlSetHeapInformation HEAP_INFORMATION_CLASS 1 not implemented!
+03a0:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+03a0:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {00000000-0000-0000-0000-000000000000}
+0440:err:ole:create_server class {aafe3a0e-952f-5312-9e85-35f2130387a7} not registered
+0440:err:ole:com_get_class_object no class object {aafe3a0e-952f-5312-9e85-35f2130387a7} could be created for context 0x4
+0440:err:ole:create_server class {aafe3a0e-952f-5312-9e85-35f2130387a7} not registered
+0440:err:ole:com_get_class_object no class object {aafe3a0e-952f-5312-9e85-35f2130387a7} could be created for context 0x4
+0440:err:ole:create_server class {aafe3a0e-952f-5312-9e85-35f2130387a7} not registered
+0440:err:ole:com_get_class_object no class object {aafe3a0e-952f-5312-9e85-35f2130387a7} could be created for context 0x4
+03a0:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+047c:fixme:winsock:setsockopt Ignoring SO_RANDOMIZE_PORT
+03a0:fixme:msg:ChangeWindowMessageFilterEx 000000000004005E 4a 1 0000000000000000
+03a0:fixme:process:GetProcessMitigationPolicy (FFFFFFFFFFFFFFFF, 4, 000000000081EE38, 4): stub
+03a0:fixme:uxtheme:SetPreferredAppMode 1: stub
+03a0:fixme:userenv:RegisterGPNotification 00000000000001B0 0
+03a0:fixme:userenv:RegisterGPNotification 00000000000001B4 1
+03a0:fixme:shcore:IsOS (OS_DOMAINMEMBER) What should we return here?
+03a0:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 0000219800058398, 16) stub
+04c4:fixme:thread:NtSetInformationThread info class 24 not supported yet
+04c4:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+04c4:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+04d0:fixme:thread:NtSetInformationThread info class 24 not supported yet
+04d0:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+04c4:fixme:wkscli:NetGetJoinInformation Semi-stub (null) 000000000BB2F720 000000000BB2F700
+04c4:fixme:thread:NtSetInformationThread info class 24 not supported yet
+04c4:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+04c4:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+04c4:fixme:netapi32:NetGetAadJoinInformation ((null), 000000000BB2F618): stub
+04c4:fixme:thread:NtSetInformationThread info class 24 not supported yet
+04c4:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+04c4:fixme:userenv:GetProfileType 000000000BB2F740
+03a0:fixme:win:RegisterSuspendResumeNotification 0000000000050072, 0: stub.
+04d4:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0474:fixme:winsock:WSAIoctl unimplemented ioctl _WSAIORW(IOC_WS2, 25)
+0474:fixme:winsock:server_ioctl_sock Unsupported ioctl 0x120348 (device=0x12 access=0 func=0xd2 method=0)
+0440:fixme:taskschd:Principal_put_UserId 0000000001800BC0,L"CYCMINT-911\\cyc-mint": stub
+0440:fixme:taskschd:Principal_put_LogonType 0000000001800BC0,3: stub
+03a0:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+03a0:fixme:winsock:WSALookupServiceBeginW (000000000081EB30 0xff0 000000000081EBA8) Stub!
+04ec:fixme:thread:NtSetInformationThread info class 24 not supported yet
+04ec:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+03a0:fixme:win:create_window_handle DPI context 0x22 not implemented
+03a0:fixme:win:RegisterPointerDeviceNotifications (0000000000050064 0): stub
+03a0:fixme:combase:RoGetActivationFactory (L"Windows.UI.ViewManagement.UIViewSettings", {3694dbf9-8f68-44be-8ff5-195c98ede8a6}, 000000000081E9A8): semi-stub
+03a0:fixme:ui:uiviewsettings_get_UserInteractionMode iface 000000000E3ABBC0, value 000000000081E99C stub!
+0444:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+040c:fixme:kernelbase:AppPolicyGetProcessTerminationMethod FFFFFFFFFFFFFFFA, 000000000011FE80
+03a0:fixme:win:GetPointerDevices (000000000081E334 0000000000000000): partial stub
+03a0:fixme:win:GetPointerDevices (000000000081E334 0000000000000000): partial stub
+03a0:fixme:system:NtUserDisplayConfigGetDeviceInfo Unimplemented packet type 11.
+03a0:fixme:combase:RoActivateInstance (0000000000E49A20, 000000000081E2A8): semi-stub
+03a0:fixme:combase:RoGetActivationFactory (L"Windows.UI.ViewManagement.UISettings", {00000035-0000-0000-c000-000000000046}, 000000000081E108): semi-stub
+03a0:fixme:ui:uisettings2_add_TextScaleFactorChanged iface 000000000E396438, handler 0000219C0020AAF0, cookie 00006FFFFB202EF0 stub!
+03a0:fixme:ui:uisettings2_get_TextScaleFactor iface 000000000E396438, value 000000000081E2D0 stub!
+0418:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {00000000-0000-0000-0000-000000000000}
+0418:fixme:kernelbase:AppPolicyGetProcessTerminationMethod FFFFFFFFFFFFFFFA, 000000000011FE80
+0050:fixme:mountmgr:query_property Faking StorageDeviceSeekPenaltyProperty data.
+050c:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+050c:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0050:fixme:mountmgr:query_property Faking StorageDeviceProperty data
+0050:fixme:mountmgr:query_property Unsupported property 0x6
+0050:fixme:mountmgr:disk_ioctl Unsupported ioctl 70048 (device=7 access=0 func=12 method=0)
+04f0:fixme:wtsapi:WTSRegisterSessionNotification Stub 0000000000050064 0x00000000
+0528:fixme:ole:CoInitializeSecurity 0000000000000000, -1, 0000000000000000, 0000000000000000, 0, 3, 0000000000000000, 0, 0000000000000000 stub
+0528:fixme:wbemprox:client_security_SetBlanket 00006FFFFE30B010, 0000000000E44600, 10, 0, (null), 3, 3, 0000000000000000, 0
+0518:fixme:ntdll:NtSetInformationToken TokenIntegrityLevel stub!
+0518:fixme:thread:SetThreadInformation Unsupported class 2.
+0518:fixme:ntdll:NtFilterToken flags 0x1 unsupported
+0518:fixme:ntdll:NtFilterToken support for restricting sids not yet implemented
+0518:fixme:advapi:SetEntriesInAclW unhandled access mode 4
+0518:fixme:ntdll:NtFilterToken support for restricting sids not yet implemented
+0518:fixme:advapi:SetEntriesInAclW unhandled access mode 4
+0518:fixme:sync:NtSetInformationJobObject stub: 0x4b4 4 0x1498eb4c 4
+0518:fixme:process:GetProcessMitigationPolicy (FFFFFFFFFFFFFFFF, 5, 000000014037EED0, 16): stub
+0518:fixme:process:validate_proc_thread_attribute Unhandled attribute 26
+04c8:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {72b14a7d-704c-423e-92f8-7e6d64bcb92a}
+04c8:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {e2091f8a-1e0a-4731-84a2-0dd57c8a5261}
+04c8:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {e8a3bf1f-a86b-4390-9c60-5390b969d22c}
+04c8:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {5727a00f-50be-4519-8256-f7699871fecb}
+04c8:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {7e854ec7-cdc4-405a-b5b2-aaf7c9e7d40c}
+04c8:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {79a60dc6-5fc8-4952-a41c-1163aeec5eb8}
+04c8:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {2718d25b-5bf5-4479-8e88-babc64bdbfca}
+04c0:fixme:process:create_nt_process Unsupported attribute 0x2000e.
+0398:fixme:kernelbase:AppPolicyGetProcessTerminationMethod FFFFFFFFFFFFFFFA, 000000000011FE80
+04bc:fixme:ver:GetCurrentPackageId (000000000AB2DAE0 0000000000000000): stub
+053c:fixme:kernelbase:AppPolicyGetThreadInitializationType FFFFFFFFFFFFFFFA, 000000001864FF50
+0050:fixme:mountmgr:query_property Faking StorageDeviceProperty data
+0050:fixme:mountmgr:query_property Unsupported property 0x2
+0050:fixme:mountmgr:disk_ioctl Unsupported ioctl 70048 (device=7 access=0 func=12 method=0)
+0050:fixme:mountmgr:query_property Faking StorageDeviceProperty data
+0050:fixme:mountmgr:query_property Unsupported property 0x2
+0050:fixme:mountmgr:disk_ioctl Unsupported ioctl 70048 (device=7 access=0 func=12 method=0)
+0538:fixme:wlanapi:WlanEnumInterfaces (0000000000000001, 0000000000000000, 0000000017E4F1C8) semi-stub
+0534:fixme:seh:WerRegisterRuntimeExceptionModule (L"C:\\users\\cyc-mint\\AppData\\Local\\Programs\\Quark\\7.4.9.1045\\quark_wer.dll", 00006FFFFC2838F0) stub
+0538:fixme:cryptasn:CryptDecodeObjectEx Unsupported decoder for lpszStructType 1.3.6.1.4.1.311.2.1.4
+0538:fixme:cryptasn:CryptDecodeObjectEx Unsupported decoder for lpszStructType 1.3.6.1.4.1.311.2.1.4
+0568:fixme:win:create_window_handle DPI context 0x22 not implemented
+04b8:fixme:wpc:WindowsParentalControls_GetUserSettings ((null) 000000000A32F770)
+03a0:fixme:crypt:CryptProtectMemory (0000219C00212200 32 00000000): stub
+03a0:fixme:dwrite:dwritefontface5_HasVariations 0000000015C95A00: stub
+057c:fixme:seh:WerRegisterRuntimeExceptionModule (L"C:\\users\\cyc-mint\\AppData\\Local\\Programs\\Quark\\7.4.9.1045\\quark_wer.dll", 00006FFFFC2838F0) stub
+0594:fixme:thread:NtSetInformationThread info class 24 not supported yet
+0594:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0574:fixme:thread:SetThreadInformation Unsupported class 2.
+0574:fixme:ntdll:NtFilterToken flags 0x1 unsupported
+0574:fixme:ntdll:NtFilterToken support for restricting sids not yet implemented
+0574:fixme:advapi:SetEntriesInAclW unhandled access mode 4
+04c8:fixme:combase:RoGetActivationFactory (L"Windows.UI.Notifications.ToastNotificationManager", {50ac103f-d235-4598-bbef-98fe4d1a3ad4}, 000000000C32F5E8): semi-stub
+0574:fixme:ntdll:NtSetInformationToken TokenIntegrityLevel stub!
+0574:fixme:ntdll:NtFilterToken support for restricting sids not yet implemented
+04c8:fixme:wpnapps:DllGetActivationFactory (L"Windows.UI.Notifications.ToastNotificationManager", 000000000C32F430): semi-stub!
+04c8:fixme:wpnapps:toast_manager_statics_CreateToastNotifierWithId (00006FFFFDB94078, L"Quark", 0000219C0059D6A8): semi-stub!
+04c8:fixme:wpnapps:toast_notifier_get_Setting (0000000015B4AB40, 000000000C32F6B8): stub!
+04c8:fixme:combase:RoGetActivationFactory (L"Windows.UI.Notifications.ToastNotificationManager", {50ac103f-d235-4598-bbef-98fe4d1a3ad4}, 000000000C32F4D8): semi-stub
+04c8:fixme:wpnapps:DllGetActivationFactory (L"Windows.UI.Notifications.ToastNotificationManager", 000000000C32F330): semi-stub!
+04c8:fixme:wpnapps:toast_manager_factory_QueryInterface {7ab93c52-0e48-4750-ba9d-1a4113981847} not implemented, returning E_NOINTERFACE
+0574:fixme:advapi:SetEntriesInAclW unhandled access mode 4
+0574:fixme:ntdll:NtSetInformationToken TokenIntegrityLevel stub!
+0574:fixme:advapi:SetSecurityInfo unimplemented type 7, returning success
+0574:fixme:sync:NtSetInformationJobObject stub: 0x6c4 4 0x1d80eb4c 4
+0574:fixme:process:GetProcessMitigationPolicy (FFFFFFFFFFFFFFFF, 5, 000000014037EED0, 16): stub
+0574:fixme:process:validate_proc_thread_attribute Unhandled attribute 26
+04c8:fixme:shell:propertystore_GetValue (0000000015A99970)->(00006FFFF8ABC0B8 000000000C32F2C0): stub
+04f8:fixme:process:create_nt_process Unsupported attribute 0x2000e.
+0588:fixme:seh:WerRegisterRuntimeExceptionModule (L"C:\\users\\cyc-mint\\AppData\\Local\\Programs\\Quark\\7.4.9.1045\\quark_wer.dll", 00006FFFFC2838F0) stub
+0580:fixme:ntdll:NtQuerySystemInformation (0x00000050,0x1e00fdf0,0x000000b0,(nil)) stub
+05b4:fixme:hnetcfg:fwpolicy2_get_CurrentProfileTypes 000000000E3AA790 0000000020D1F4A4
+03a0:fixme:win:create_window_handle DPI context 0x22 not implemented
+05c4:fixme:kernelbase:AppPolicyGetThreadInitializationType FFFFFFFFFFFFFFFA, 0000000022D6FF50
+04b8:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+04b8:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+05dc:fixme:win:create_window_handle DPI context 0x22 not implemented
+05dc:fixme:wtsapi:WTSRegisterSessionNotification Stub 00000000000E005C 0x00000000
+05ac:fixme:seh:WerRegisterRuntimeExceptionModule (L"C:\\users\\cyc-mint\\AppData\\Local\\Programs\\Quark\\7.4.9.1045\\quark_wer.dll", 00006FFFFC2838F0) stub
+04c8:fixme:wtsapi:WTSQuerySessionInformationW returning 0 protocol type
+03a0:fixme:process:RegisterApplicationRestart (L" --install-from=mini_install_quark_v7.2.2.1000 --launch-from=firstinstall --quark-agent-hardware-info=\"{\\\"applicable\\\":true,\\\"available\\\":true,\\\"ready\\\":false,\\\"reason\\\":\\\"pending\\\",\\\"version\\\":2}\" --quark-ai-toolbar-enabled=1 --quark-extension-install --quark-fl"...,7)
+03a0:fixme:ui:uisettings2_get_TextScaleFactor iface 000000000E396438, value 000000000081C0E0 stub!
+04c0:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+04c0:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+03a0:fixme:wtsapi:WTSQuerySessionInformationW Unimplemented class 25
+04f0:fixme:wtsapi:WTSRegisterSessionNotification Stub 0000000000050064 0x00000000
+04b8:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+04c0:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+04b8:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+04c0:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+04bc:fixme:combase:RoGetActivationFactory (L"Windows.Devices.Input.PenDevice", {9dfbbe01-0966-5180-bcb4-b85060e39479}, 00006FFFFB540B38): semi-stub
+04bc:err:combase:RoGetActivationFactory Failed to find library for L"Windows.Devices.Input.PenDevice"
+03a0:fixme:win:create_window_handle DPI context 0x22 not implemented
+05d8:fixme:seh:WerRegisterRuntimeExceptionModule (L"C:\\users\\cyc-mint\\AppData\\Local\\Programs\\Quark\\7.4.9.1045\\quark_wer.dll", 00006FFFFC2838F0) stub
+03a0:fixme:system:EnableNonClientDpiScaling (00000000000200B6): stub
+03a0:fixme:uxtheme:AllowDarkModeForWindow 00000000000200B6 1: stub
+03a0:fixme:shell:SHGetPropertyStoreForWindow (00000000000200B6 00006FFFF92F1DF0 000000000081B468) stub!
+03a0:fixme:shell:window_prop_store_SetValue 0000000015C15040, {{9f4c2855-9f79-4b39-a8d0-e1d42de1d5f3},5}, 000000000081B390
+03a0:fixme:shell:window_prop_store_Commit 0000000015C15040
+05b4:err:ole:com_get_class_object class {aa509086-5ca9-4c25-8f95-589d3c07b48a} not registered
+05b4:err:ole:com_get_class_object class {aa509086-5ca9-4c25-8f95-589d3c07b48a} not registered
+03a0:fixme:win:create_window_handle DPI context 0x22 not implemented
+05b4:err:ole:create_server class {aa509086-5ca9-4c25-8f95-589d3c07b48a} not registered
+05b4:fixme:ole:com_get_class_object CLSCTX_REMOTE_SERVER not supported
+05b4:err:ole:com_get_class_object no class object {aa509086-5ca9-4c25-8f95-589d3c07b48a} could be created for context 0x17
+0534:fixme:powrprof:PowerRegisterSuspendResumeNotification (0x00000002,000000000081EF00,000000000081EF38) stub!
+0534:fixme:process:SetProcessShutdownParameters (0000027f, 00000001): partial stub.
+05e4:fixme:seh:WerRegisterRuntimeExceptionModule (L"C:\\users\\cyc-mint\\AppData\\Local\\Programs\\Quark\\7.4.9.1045\\quark_wer.dll", 00006FFFFC2838F0) stub
+0534:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0534:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0534:fixme:heap:RtlSetHeapInformation HEAP_INFORMATION_CLASS 1 not implemented!
+0534:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+0534:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {00000000-0000-0000-0000-000000000000}
+0534:fixme:process:GetProcessMitigationPolicy (FFFFFFFFFFFFFFFF, 4, 000000000081F3F0, 4): stub
+0534:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 0000763000050188, 16) stub
+0534:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+05f8:fixme:seh:WerRegisterRuntimeExceptionModule (L"C:\\users\\cyc-mint\\AppData\\Local\\Programs\\Quark\\7.4.9.1045\\quark_wer.dll", 00006FFFFC2838F0) stub
+03a0:fixme:dwmapi:DwmGetWindowAttribute attribute 5 not implemented.
+03a0:fixme:dwmapi:DwmGetWindowAttribute attribute 5 not implemented.
+03a0:fixme:dwmapi:DwmGetWindowAttribute attribute 5 not implemented.
+0534:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+03a0:fixme:win:RegisterPowerSettingNotification (0000000000050064,{2b84c20e-ad23-4ddf-93db-05ffbd7efca5},0): stub
+03a0:fixme:combase:RoGetActivationFactory (L"Windows.Media.ClosedCaptioning.ClosedCaptionProperties", {10aa1f84-cc30-4141-b503-5272289e0c20}, 0000000000819658): semi-stub
+03a0:fixme:media:captions_get_FontSize iface 00006FFFFDB15048, value 0000000000819654 semi-stub.
+03a0:fixme:media:captions_get_FontEffect iface 00006FFFFDB15048, value 0000000000819650 semi-stub.
+03a0:fixme:media:captions_get_FontStyle iface 00006FFFFDB15048, value 000000000081964C semi-stub.
+03a0:fixme:media:captions_get_FontColor iface 00006FFFFDB15048, value 0000000000819648 semi-stub.
+03a0:fixme:media:captions_get_FontOpacity iface 00006FFFFDB15048, value 0000000000819644 semi-stub.
+03a0:fixme:media:captions_get_BackgroundColor iface 00006FFFFDB15048, value 0000000000819640 semi-stub.
+03a0:fixme:media:captions_get_BackgroundOpacity iface 00006FFFFDB15048, value 000000000081963C semi-stub.
+03a0:fixme:media:captions_get_RegionColor iface 00006FFFFDB15048, value 0000000000819638 semi-stub.
+03a0:fixme:media:captions_get_RegionOpacity iface 00006FFFFDB15048, value 0000000000819634 semi-stub.
+0050:fixme:mountmgr:query_property Faking StorageDeviceProperty data
+0574:fixme:ntdll:NtFilterToken flags 0x1 unsupported
+0574:fixme:ntdll:NtFilterToken support for restricting sids not yet implemented
+0574:fixme:advapi:SetEntriesInAclW unhandled access mode 4
+0574:fixme:ntdll:NtSetInformationToken TokenIntegrityLevel stub!
+0574:fixme:ntdll:NtFilterToken support for restricting sids not yet implemented
+0050:fixme:mountmgr:query_property Faking StorageDeviceProperty data
+0574:fixme:advapi:SetEntriesInAclW unhandled access mode 4
+0574:fixme:ntdll:NtSetInformationToken TokenIntegrityLevel stub!
+0518:fixme:ntdll:NtFilterToken flags 0x1 unsupported
+0518:fixme:ntdll:NtFilterToken support for restricting sids not yet implemented
+0574:fixme:sync:NtSetInformationJobObject stub: 0xa1c 4 0x1d80eb4c 4
+0574:fixme:process:GetProcessMitigationPolicy (FFFFFFFFFFFFFFFF, 5, 000000014037EED0, 16): stub
+0574:fixme:process:validate_proc_thread_attribute Unhandled attribute 26
+0518:fixme:advapi:SetEntriesInAclW unhandled access mode 4
+0518:fixme:ntdll:NtSetInformationToken TokenIntegrityLevel stub!
+0518:fixme:ntdll:NtFilterToken support for restricting sids not yet implemented
+0518:fixme:advapi:SetEntriesInAclW unhandled access mode 4
+0518:fixme:ntdll:NtSetInformationToken TokenIntegrityLevel stub!
+03a0:fixme:win:create_window_handle DPI context 0x22 not implemented
+0518:fixme:sync:NtSetInformationJobObject stub: 0xa24 4 0x1498eb4c 4
+0518:fixme:process:GetProcessMitigationPolicy (FFFFFFFFFFFFFFFF, 5, 000000014037EED0, 16): stub
+0518:fixme:process:validate_proc_thread_attribute Unhandled attribute 26
+04bc:fixme:process:create_nt_process Unsupported attribute 0x2000e.
+0534:fixme:dxcore:dxcore_adapter_factory_CreateAdapterList iface 00006FFFFDB44030, num_attributes 1, filter_attributes 000000000081E200, riid {526c7776-40e9-459b-b711-f32ad76dfc28}, out 000000000081E290 semi-stub!
+057c:fixme:powrprof:PowerRegisterSuspendResumeNotification (0x00000002,000000000081EF00,000000000081EF38) stub!
+057c:fixme:process:SetProcessShutdownParameters (0000027f, 00000001): partial stub.
+057c:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+057c:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+057c:fixme:heap:RtlSetHeapInformation HEAP_INFORMATION_CLASS 1 not implemented!
+057c:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+057c:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {00000000-0000-0000-0000-000000000000}
+057c:fixme:process:GetProcessMitigationPolicy (FFFFFFFFFFFFFFFF, 4, 000000000081F3F0, 4): stub
+04c0:fixme:process:create_nt_process Unsupported attribute 0x2000e.
+057c:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 0000319000050188, 16) stub
+03a0:fixme:manipulation:viewport_ActivateConfiguration 0000000015C62DE0, 823
+03a0:fixme:manipulation:viewport_SetViewportOptions 0000000015C62DE0, 2
+03a0:fixme:manipulation:viewport_SetViewportRect 0000000015C62DE0, 000000000081ABF0
+03a0:fixme:manipulation:direct_manip_Activate 0000000015C62D80, 0000000000030096
+03a0:fixme:manipulation:viewport_Abandon 0000000015C62DE0
+057c:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+03a0:fixme:msctf:SetInputScope STUB: 00000000000200B6 0
+03a0:fixme:manipulation:viewport_ActivateConfiguration 0000000015C62DE0, 823
+03a0:fixme:manipulation:viewport_SetViewportOptions 0000000015C62DE0, 2
+03a0:fixme:manipulation:viewport_SetViewportRect 0000000015C62DE0, 000000000081AD90
+03a0:fixme:manipulation:direct_manip_Activate 0000000015C62D80, 0000000000030096
+03a0:fixme:manipulation:viewport_Abandon 0000000015C62DE0
+0588:fixme:powrprof:PowerRegisterSuspendResumeNotification (0x00000002,000000000081EF00,000000000081EF38) stub!
+0588:fixme:process:SetProcessShutdownParameters (0000027f, 00000001): partial stub.
+0528:fixme:wbemprox:exec_assoc_view ignoring keywords
+03a0:fixme:manipulation:viewport_ActivateConfiguration 0000000015C62DE0, 823
+03a0:fixme:manipulation:viewport_SetViewportOptions 0000000015C62DE0, 2
+03a0:fixme:manipulation:viewport_SetViewportRect 0000000015C62DE0, 000000000081ADF0
+03a0:fixme:manipulation:direct_manip_Activate 0000000015C62D80, 0000000000030096
+03a0:fixme:manipulation:viewport_Abandon 0000000015C62DE0
+0588:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0588:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0588:fixme:heap:RtlSetHeapInformation HEAP_INFORMATION_CLASS 1 not implemented!
+0588:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+03a0:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+03a0:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+0588:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {00000000-0000-0000-0000-000000000000}
+0588:fixme:process:GetProcessMitigationPolicy (FFFFFFFFFFFFFFFF, 4, 000000000081F3F0, 4): stub
+0588:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 000037E000050188, 16) stub
+0670:fixme:thread:NtSetInformationThread info class 24 not supported yet
+0670:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+068c:fixme:thread:NtSetInformationThread info class 24 not supported yet
+068c:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+03a0:fixme:win:create_window_handle DPI context 0x22 not implemented
+03a0:fixme:manipulation:viewport_ActivateConfiguration 0000000015C62DE0, 823
+03a0:fixme:manipulation:viewport_SetViewportOptions 0000000015C62DE0, 2
+03a0:fixme:manipulation:viewport_SetViewportRect 0000000015C62DE0, 000000000081B150
+03a0:fixme:manipulation:direct_manip_Activate 0000000015C62D80, 0000000000030096
+03a0:fixme:manipulation:viewport_Abandon 0000000015C62DE0
+03a0:fixme:manipulation:viewport_ActivateConfiguration 0000000015C62DE0, 823
+03a0:fixme:manipulation:viewport_SetViewportOptions 0000000015C62DE0, 2
+03a0:fixme:manipulation:viewport_SetViewportRect 0000000015C62DE0, 000000000081B130
+03a0:fixme:manipulation:direct_manip_Activate 0000000015C62D80, 0000000000030096
+03a0:fixme:manipulation:viewport_Abandon 0000000015C62DE0
+03a0:fixme:manipulation:viewport_ActivateConfiguration 0000000015C62DE0, 823
+03a0:fixme:manipulation:viewport_SetViewportOptions 0000000015C62DE0, 2
+03a0:fixme:manipulation:viewport_SetViewportRect 0000000015C62DE0, 000000000081A420
+03a0:fixme:manipulation:direct_manip_Activate 0000000015C62D80, 0000000000030096
+03a0:fixme:manipulation:viewport_Abandon 0000000015C62DE0
+03a0:fixme:manipulation:viewport_ActivateConfiguration 0000000015C62DE0, 823
+03a0:fixme:manipulation:viewport_SetViewportOptions 0000000015C62DE0, 2
+03a0:fixme:manipulation:viewport_SetViewportRect 0000000015C62DE0, 000000000081A7B0
+03a0:fixme:manipulation:direct_manip_Activate 0000000015C62D80, 0000000000030096
+03a0:fixme:manipulation:viewport_Abandon 0000000015C62DE0
+0674:fixme:winsock:WSALookupServiceBeginW (0000000008DFDB00 0xff0 0000000008DFDB78) Stub!
+06ac:fixme:thread:NtSetInformationThread info class 24 not supported yet
+06ac:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0528:fixme:wbemprox:exec_assoc_view ignoring keywords
+03a0:fixme:win:IsWindowArranged hwnd 00000000000200B6 stub.
+06ac:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+0538:fixme:dsrole:DsRoleGetPrimaryDomainInformation (0000000000000000, 1, 0000000017E4F2E8) stub
+0538:fixme:process:WTSGetActiveConsoleSessionId stub
+0534:fixme:win:create_window_handle DPI context 0x22 not implemented
+03a0:fixme:win:GetPointerDevices (000000000081C264 0000000000000000): partial stub
+03a0:fixme:win:GetPointerDevices (000000000081C264 0000000000000000): partial stub
+03a0:fixme:system:NtUserDisplayConfigGetDeviceInfo Unimplemented packet type 11.
+03a0:fixme:ui:uisettings2_get_TextScaleFactor iface 000000000E396438, value 000000000081C200 stub!
+0538:fixme:cryptasn:CryptDecodeObjectEx Unsupported decoder for lpszStructType 1.3.6.1.4.1.311.2.1.4
+0538:fixme:cryptasn:CryptDecodeObjectEx Unsupported decoder for lpszStructType 1.3.6.1.4.1.311.2.1.4
+03a0:fixme:msctf:TextStoreACPSink_OnLayoutChange STUB:(000000000E3CD730)
+03a0:fixme:msctf:TextStoreACPSink_OnLayoutChange STUB:(000000000E3CD730)
+03a0:fixme:msctf:TextStoreACPSink_OnLayoutChange STUB:(000000000E3CD730)
+03a0:fixme:msctf:TextStoreACPSink_OnLayoutChange STUB:(000000000E3CD730)
+03a0:fixme:msctf:TextStoreACPSink_OnLayoutChange STUB:(000000000E3CD730)
+03a0:fixme:win:NtUserGetWindowDisplayAffinity 0x200b6, 0x81c904: stub
+04b8:fixme:shell:propertystore_SetValue (0000000015DC9180)->(00006FFFF8ABC058 000000000A32F0A0): stub
+04b8:fixme:shell:propertystore_Commit (0000000015DC9180): stub
+03a0:fixme:dwmapi:DwmExtendFrameIntoClientArea (00000000000200B6, 000000000081C950) stub
+03a0:fixme:msctf:TextStoreACPSink_OnLayoutChange STUB:(000000000E3CD730)
+03a0:fixme:manipulation:viewport_ActivateConfiguration 0000000015C62E70, 823
+03a0:fixme:manipulation:viewport_SetViewportOptions 0000000015C62E70, 2
+03a0:fixme:manipulation:viewport_SetViewportRect 0000000015C62E70, 0000000000819CD0
+03a0:fixme:manipulation:direct_manip_Activate 0000000015C62E10, 0000000000030096
+03a0:fixme:manipulation:viewport_Abandon 0000000015C62E70
+03a0:fixme:manipulation:viewport_ActivateConfiguration 0000000015C62E70, 823
+03a0:fixme:manipulation:viewport_SetViewportOptions 0000000015C62E70, 2
+03a0:fixme:manipulation:viewport_SetViewportRect 0000000015C62E70, 000000000081A060
+03a0:fixme:manipulation:direct_manip_Activate 0000000015C62E10, 0000000000030096
+03a0:fixme:manipulation:viewport_Abandon 0000000015C62E70
+03a0:fixme:msctf:TextStoreACPSink_OnLayoutChange STUB:(000000000E3CD730)
+03a0:fixme:dwmapi:DwmExtendFrameIntoClientArea (00000000000200B6, 000000000081C7B0) stub
+03a0:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+06c0:fixme:thread:NtSetInformationThread info class 24 not supported yet
+06c0:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+06ac:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+MESA-EGL: warning: pci id for fd 47: 10de:2191, driver (null)
+06ac:fixme:netprofm:init_networks no support for detecting network changes
+pci id for fd 49: 10de:2191, driver (null)
+pci id for fd 50: 10de:2191, driver (null)
+MESA-EGL: warning: egl: failed to create dri2 screen
+MESA-EGL: warning: pci id for fd 47: 10de:2191, driver (null)
+063c:fixme:seh:WerRegisterRuntimeExceptionModule (L"C:\\users\\cyc-mint\\AppData\\Local\\Programs\\Quark\\7.4.9.1045\\quark_wer.dll", 00006FFFFC2838F0) stub
+pci id for fd 49: 10de:2191, driver (null)
+06ac:fixme:netprofm:connection_point_Advise 0000000000EB76D8, 000037E40003D430, 000037E40003D448 - semi-stub
+06ac:fixme:netprofm:cost_manager_GetCost 0000000000EB7668, 000000000C31F720, 0000000000000000
+06ac:fixme:thread:NtSetInformationThread info class 24 not supported yet
+06ac:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+pci id for fd 50: 10de:2191, driver (null)
+MESA-EGL: warning: egl: failed to create dri2 screen
+03a0:fixme:win:GetPointerDevices (000000000081E334 0000000000000000): partial stub
+03a0:fixme:win:GetPointerDevices (000000000081E334 0000000000000000): partial stub
+MESA-EGL: warning: pci id for fd 47: 10de:2191, driver (null)
+064c:fixme:seh:WerRegisterRuntimeExceptionModule (L"C:\\users\\cyc-mint\\AppData\\Local\\Programs\\Quark\\7.4.9.1045\\quark_wer.dll", 00006FFFFC2838F0) stub
+05ac:fixme:powrprof:PowerRegisterSuspendResumeNotification (0x00000002,000000000081EF00,000000000081EF38) stub!
+05ac:fixme:process:SetProcessShutdownParameters (0000027f, 00000001): partial stub.
+05ac:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+05ac:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+05ac:fixme:heap:RtlSetHeapInformation HEAP_INFORMATION_CLASS 1 not implemented!
+06ec:fixme:kernelbase:AppPolicyGetThreadInitializationType FFFFFFFFFFFFFFFA, 000000000C58FF50
+info:  Game: quark.exe
+info:  DXVK: v3.1.1
+info:  Build: x86_64 gcc 16.2.0
+05ac:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+04b8:err:ole:com_get_class_object class {90aa3a4e-1cba-4233-b8bb-535773d48449} not registered
+04b8:err:ole:com_get_class_object no class object {90aa3a4e-1cba-4233-b8bb-535773d48449} could be created for context 0x1
+05ac:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {00000000-0000-0000-0000-000000000000}
+05ac:fixme:process:GetProcessMitigationPolicy (FFFFFFFFFFFFFFFF, 4, 000000000081F3F0, 4): stub
+info:  Vulkan: Found vkGetInstanceProcAddr in winevulkan.dll @ 0x6ffffcf080a0
+info:  Extension providers:
+info:    Platform WSI
+info:    OpenVR
+info:  OpenVR: could not open registry key, status 2
+05ac:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 00001478000D40D8, 16) stub
+05ac:fixme:ntdll:NtSetInformationToken TokenIntegrityLevel stub!
+05ac:fixme:process:NtQueryInformationProcess ProcessHandleCount (0xffffffffffffffff,0x81ea84,0x00000004,(nil)) stub
+05ac:fixme:process:NtQueryInformationProcess ProcessHandleTable (0xffffffffffffffff,0x19a800091000,0x00000fa0,0x81ea88) stub
+05ac:fixme:process:SetProcessMitigationPolicy (2, 000000000081EB40, 4): stub
+05ac:fixme:process:SetProcessMitigationPolicy (8, 000000000081EB40, 4): stub
+info:  OpenVR: Failed to locate module
+info:    OpenXR
+0710:fixme:thread:NtSetInformationThread info class 24 not supported yet
+0710:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+05d8:fixme:powrprof:PowerRegisterSuspendResumeNotification (0x00000002,000000000081EF00,000000000081EF38) stub!
+05d8:fixme:process:SetProcessShutdownParameters (0000027f, 00000001): partial stub.
+05d8:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+05d8:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+05d8:fixme:heap:RtlSetHeapInformation HEAP_INFORMATION_CLASS 1 not implemented!
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0xbb8,0x81df20,0x00000010,(nil)) stub
+05d8:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0xc04,0x81dde0,0x00000010,(nil)) stub
+05d8:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {00000000-0000-0000-0000-000000000000}
+05d8:fixme:process:GetProcessMitigationPolicy (FFFFFFFFFFFFFFFF, 4, 000000000081F3F0, 4): stub
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0xc2c,0x81df20,0x00000010,(nil)) stub
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0xc38,0x81dde0,0x00000010,(nil)) stub
+03a0:fixme:crypt:CryptUnprotectMemory (0000219C01FC6B10 32 00000000): stub
+05d8:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 0000534800050188, 16) stub
+04b8:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+05e4:fixme:powrprof:PowerRegisterSuspendResumeNotification (0x00000002,000000000081EF00,000000000081EF38) stub!
+05e4:fixme:process:SetProcessShutdownParameters (0000027f, 00000001): partial stub.
+05e4:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+05e4:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+05e4:fixme:heap:RtlSetHeapInformation HEAP_INFORMATION_CLASS 1 not implemented!
+04b8:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+05e4:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+0674:fixme:winsock:setsockopt Ignoring SO_RANDOMIZE_PORT
+05e4:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {00000000-0000-0000-0000-000000000000}
+05e4:fixme:process:GetProcessMitigationPolicy (FFFFFFFFFFFFFFFF, 4, 000000000081F3F0, 4): stub
+05d8:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+05e4:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 0000509800060188, 16) stub
+067c:fixme:file:NtLockFile I/O completion on lock not implemented yet
+0748:fixme:thread:NtSetInformationThread info class 24 not supported yet
+0748:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0674:fixme:winsock:setsockopt Ignoring SO_RANDOMIZE_PORT
+05e4:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+05f8:fixme:powrprof:PowerRegisterSuspendResumeNotification (0x00000002,000000000081EF00,000000000081EF38) stub!
+05f8:fixme:process:SetProcessShutdownParameters (0000027f, 00000001): partial stub.
+0670:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0670:fixme:thread:NtSetInformationThread info class 24 not supported yet
+0670:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+05f8:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+05f8:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+05f8:fixme:heap:RtlSetHeapInformation HEAP_INFORMATION_CLASS 1 not implemented!
+04fc:fixme:thread:QueryThreadCycleTime (FFFFFFFFFFFFFFFE,000000001194F3A0): stub!
+0674:fixme:winsock:setsockopt Ignoring SO_RANDOMIZE_PORT
+05f8:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+05f8:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {00000000-0000-0000-0000-000000000000}
+06e4:fixme:seh:WerRegisterRuntimeExceptionModule (L"C:\\users\\cyc-mint\\AppData\\Local\\Programs\\Quark\\7.4.9.1045\\quark_wer.dll", 00006FFFFC2838F0) stub
+05f8:fixme:process:GetProcessMitigationPolicy (FFFFFFFFFFFFFFFF, 4, 000000000081F3F0, 4): stub
+05f8:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 000005C800060188, 16) stub
+050c:fixme:wbemprox:client_security_SetBlanket 00006FFFFE30B010, 000000000E4082B0, 10, 0, (null), 3, 3, 0000000000000000, 0
+050c:fixme:system:NtUserSystemParametersInfo Unknown action: 118
+0674:fixme:winsock:setsockopt Ignoring SO_RANDOMIZE_PORT
+04fc:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+050c:fixme:powrprof:PowerGetActiveScheme (0000000000000000,000000001314F4C8) stub!
+04fc:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+05f8:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0xca0,0x81df20,0x00000010,(nil)) stub
+0770:fixme:thread:NtSetInformationThread info class 24 not supported yet
+0770:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+050c:fixme:propsys:propsys_GetPropertyDescriptionByName canonical_name not found L"System.Volume.BitLockerProtection"
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0xcb8,0x81dde0,0x00000010,(nil)) stub
+0500:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+03a0:fixme:shell:SHGetPropertyStoreForWindow (00000000000200B6 00006FFFF92F1DF0 000000000081DD78) stub!
+03a0:fixme:shell:window_prop_store_SetValue 0000000015DB2F60, {{9f4c2855-9f79-4b39-a8d0-e1d42de1d5f3},5}, 000000000081DCA0
+03a0:fixme:shell:window_prop_store_Commit 0000000015DB2F60
+03a0:fixme:shell:window_prop_store_SetValue 0000000015DB2F60, {{9f4c2855-9f79-4b39-a8d0-e1d42de1d5f3},3}, 000000000081DC90
+03a0:fixme:shell:window_prop_store_Commit 0000000015DB2F60
+03a0:fixme:shell:window_prop_store_SetValue 0000000015DB2F60, {{9f4c2855-9f79-4b39-a8d0-e1d42de1d5f3},2}, 000000000081DC90
+03a0:fixme:shell:window_prop_store_Commit 0000000015DB2F60
+03a0:fixme:shell:window_prop_store_SetValue 0000000015DB2F60, {{9f4c2855-9f79-4b39-a8d0-e1d42de1d5f3},4}, 000000000081DC90
+03a0:fixme:shell:window_prop_store_Commit 0000000015DB2F60
+0500:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+info:  Enabled instance extensions:
+info:    VK_KHR_get_surface_capabilities2
+info:    VK_KHR_surface
+info:    VK_KHR_surface_maintenance1
+info:    VK_KHR_win32_surface
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0xc3c,0x81df20,0x00000010,(nil)) stub
+050c:fixme:dsrole:DsRoleGetPrimaryDomainInformation (0000000000000000, 1, 000000001314F4E8) stub
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0xca8,0x81dde0,0x00000010,(nil)) stub
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0xcfc,0x81df20,0x00000010,(nil)) stub
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0xd00,0x81dde0,0x00000010,(nil)) stub
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0xd18,0x81df20,0x00000010,(nil)) stub
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0xd1c,0x81dde0,0x00000010,(nil)) stub
+06fc:fixme:seh:WerRegisterRuntimeExceptionModule (L"C:\\users\\cyc-mint\\AppData\\Local\\Programs\\Quark\\7.4.9.1045\\quark_wer.dll", 00006FFFFC2838F0) stub
+warn:  CreateDXGIFactory2: Ignoring flags
+info:  Game: quark.exe
+info:  DXVK: v3.1.1
+info:  Build: x86_64 gcc 16.2.0
+0538:fixme:wlanapi:WlanEnumInterfaces (0000000000000001, 0000000000000000, 0000000017E4F1C8) semi-stub
+04bc:fixme:crypt:CRYPT_SysRegOpenStoreW CERT_SYSTEM_STORE_LOCAL_MACHINE_ENTERPRISE, L"ROOT": stub
+03a0:fixme:msctf:TextStoreACPSink_OnLayoutChange STUB:(000000000E3CD730)
+04bc:fixme:crypt:CRYPT_SysRegOpenStoreW CERT_SYSTEM_STORE_LOCAL_MACHINE_ENTERPRISE, L"CA": stub
+03a0:fixme:process:GetProcessInformation Unsupported information class 4.
+info:  Vulkan: Found vkGetInstanceProcAddr in winevulkan.dll @ 0x6ffffcf080a0
+info:  Extension providers:
+info:    Platform WSI
+info:    OpenVR
+info:  OpenVR: could not open registry key, status 2
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0xd3c,0x81de80,0x00000010,(nil)) stub
+0798:fixme:thread:NtSetInformationThread info class 24 not supported yet
+0798:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+03a0:fixme:process:GetProcessInformation Unsupported information class 4.
+info:  OpenVR: Failed to locate module
+info:    OpenXR
+04bc:fixme:crypt:CRYPT_SysRegOpenStoreW CERT_SYSTEM_STORE_LOCAL_MACHINE_ENTERPRISE, L"TrustedPeople": stub
+info:  Game: quark.exe
+info:  DXVK: v3.1.1
+info:  Build: x86_64 gcc 16.2.0
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0xbd0,0x81de80,0x00000010,(nil)) stub
+04bc:fixme:crypt:CRYPT_SysRegOpenStoreW CERT_SYSTEM_STORE_LOCAL_MACHINE_ENTERPRISE, L"Disallowed": stub
+04bc:fixme:crypt:CRYPT_RegControl CERT_STORE_CTRL_AUTO_RESYNC: stub
+04bc:fixme:crypt:CRYPT_RegControl CERT_STORE_CTRL_AUTO_RESYNC: stub
+04bc:fixme:crypt:CRYPT_RegControl CERT_STORE_CTRL_AUTO_RESYNC: stub
+04bc:fixme:crypt:CRYPT_RegControl CERT_STORE_CTRL_AUTO_RESYNC: stub
+04bc:fixme:crypt:CRYPT_RegControl CERT_STORE_CTRL_AUTO_RESYNC: stub
+04bc:fixme:crypt:CRYPT_RegControl CERT_STORE_CTRL_AUTO_RESYNC: stub
+03a0:fixme:win:RegisterPowerSettingNotification (0000000000050064,{5d3e9a59-e9d5-4b00-a6bd-ff34ff516548},0): stub
+03a0:fixme:win:RegisterPowerSettingNotification (0000000000050064,{a7ad8041-b45a-4cae-87a3-eecbb468a9e1},0): stub
+info:  Vulkan: Found vkGetInstanceProcAddr in winevulkan.dll @ 0x6ffffcf080a0
+info:  Extension providers:
+info:    Platform WSI
+info:    OpenVR
+info:  OpenVR: could not open registry key, status 2
+03a0:fixme:win:GetPointerDevices (000000000081DA84 0000000000000000): partial stub
+03a0:fixme:win:GetPointerDevices (000000000081DA84 0000000000000000): partial stub
+03a0:fixme:system:NtUserDisplayConfigGetDeviceInfo Unimplemented packet type 11.
+03a0:fixme:ui:uisettings2_get_TextScaleFactor iface 000000000E396438, value 000000000081DA20 stub!
+info:  OpenVR: Failed to locate module
+info:    OpenXR
+04c0:fixme:wlanapi:WlanEnumInterfaces (0000000000000001, 0000000000000000, 000000000B32F1F0) semi-stub
+07b4:fixme:kernelbase:AppPolicyGetThreadInitializationType FFFFFFFFFFFFFFFA, 000000000C80FF50
+05e4:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 00006FFFFAE102ED, 8) stub
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0xd5c,0x81df20,0x00000010,(nil)) stub
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0xd68,0x81dde0,0x00000010,(nil)) stub
+04c8:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0xd7c,0x81df20,0x00000010,(nil)) stub
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0xd88,0x81dde0,0x00000010,(nil)) stub
+07cc:fixme:thread:NtSetInformationThread info class 24 not supported yet
+07cc:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+04c8:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+07f4:fixme:winsock:WSALookupServiceBeginW (0000000011B3F0A0 0xff0 0000000011B3F118) Stub!
+0804:fixme:kernelbase:AppPolicyGetThreadInitializationType FFFFFFFFFFFFFFFA, 000000000C80FF50
+04b8:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+05f8:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 00006FFFFAE102ED, 8) stub
+04b8:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+04c0:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+04c0:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+07f4:fixme:winsock:setsockopt Ignoring SO_RANDOMIZE_PORT
+07f4:fixme:winsock:WSAIoctl unimplemented ioctl _WSAIORW(IOC_VENDOR, 39)
+07f4:fixme:winsock:server_ioctl_sock Unsupported ioctl 0x120348 (device=0x12 access=0 func=0xd2 method=0)
+0674:fixme:crypt:CryptProtectMemory (000037E40030ED30 32 00000000): stub
+04c0:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+04c0:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:err:ole:com_get_class_object class {45ba127d-10a8-46ea-8ab7-56ea9078943c} not registered
+04b8:err:ole:com_get_class_object no class object {45ba127d-10a8-46ea-8ab7-56ea9078943c} could be created for context 0x1
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04c0:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+04c0:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+07fc:fixme:process:GetProcessMitigationPolicy (FFFFFFFFFFFFFFFF, 4, 000000001233ED5C, 4): stub
+04b8:fixme:explorerframe:taskbar_list_SetOverlayIcon iface 00000000283F4A20, hwnd 00000000000200B6, hIcon 0000000000000000, pszDescription L"" stub!
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+07f4:fixme:winsock:setsockopt Ignoring SO_RANDOMIZE_PORT
+07f4:fixme:winsock:setsockopt Ignoring SO_RANDOMIZE_PORT
+07f4:fixme:winsock:setsockopt Ignoring SO_RANDOMIZE_PORT
+0574:fixme:ntdll:NtFilterToken flags 0x1 unsupported
+0574:fixme:ntdll:NtFilterToken support for restricting sids not yet implemented
+0574:fixme:advapi:SetEntriesInAclW unhandled access mode 4
+0574:fixme:ntdll:NtSetInformationToken TokenIntegrityLevel stub!
+0574:fixme:ntdll:NtFilterToken support for restricting sids not yet implemented
+0574:fixme:advapi:SetEntriesInAclW unhandled access mode 4
+0574:fixme:ntdll:NtSetInformationToken TokenIntegrityLevel stub!
+0574:fixme:sync:NtSetInformationJobObject stub: 0xe04 4 0x1d80eb4c 4
+0574:fixme:process:GetProcessMitigationPolicy (FFFFFFFFFFFFFFFF, 5, 000000014037EED0, 16): stub
+0574:fixme:process:validate_proc_thread_attribute Unhandled attribute 26
+04bc:fixme:process:create_nt_process Unsupported attribute 0x2000e.
+info:  Enabled instance extensions:
+info:    VK_KHR_get_surface_capabilities2
+info:    VK_KHR_surface
+info:    VK_KHR_surface_maintenance1
+info:    VK_KHR_win32_surface
+info:  Found device: NVIDIA GeForce GTX 1660 Ti (NVIDIA 580.178.4)
+info:  Found device: NVIDIA GeForce GTX 1660 Ti (NVIDIA 580.178.4)
+info:  Found device: llvmpipe (LLVM 21.1.8, 256 bits) (llvmpipe 26.2.5)
+info:    Skipping: Software driver
+info:  Found device: llvmpipe (LLVM 21.1.8, 256 bits) (llvmpipe 26.2.5)
+info:    Skipping: Software driver
+info:  DXGI: Hiding actual GPU, reporting:
+info:    vendor ID: 0x1002
+info:    device ID: 0x73df
+info:  DXGI: Hiding actual GPU, reporting:
+info:    vendor ID: 0x1002
+info:    device ID: 0x73df
+info:  Enabled instance extensions:
+info:    VK_KHR_get_surface_capabilities2
+info:    VK_KHR_surface
+info:    VK_KHR_surface_maintenance1
+info:    VK_KHR_win32_surface
+info:  Found device: NVIDIA GeForce GTX 1660 Ti (NVIDIA 580.178.4)
+info:  Found device: NVIDIA GeForce GTX 1660 Ti (NVIDIA 580.178.4)
+info:  Found device: llvmpipe (LLVM 21.1.8, 256 bits) (llvmpipe 26.2.5)
+info:    Skipping: Software driver
+info:  Found device: llvmpipe (LLVM 21.1.8, 256 bits) (llvmpipe 26.2.5)
+info:    Skipping: Software driver
+info:  DXGI: Hiding actual GPU, reporting:
+info:    vendor ID: 0x1002
+info:    device ID: 0x73df
+07f4:fixme:winsock:setsockopt Ignoring SO_RANDOMIZE_PORT
+03a0:fixme:process:GetProcessInformation Unsupported information class 4.
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0xeac,0x81de80,0x00000010,(nil)) stub
+0518:fixme:ntdll:NtFilterToken flags 0x1 unsupported
+0518:fixme:ntdll:NtFilterToken support for restricting sids not yet implemented
+0518:fixme:advapi:SetEntriesInAclW unhandled access mode 4
+0518:fixme:ntdll:NtSetInformationToken TokenIntegrityLevel stub!
+0518:fixme:ntdll:NtFilterToken support for restricting sids not yet implemented
+07f4:fixme:winsock:setsockopt Ignoring SO_RANDOMIZE_PORT
+0518:fixme:advapi:SetEntriesInAclW unhandled access mode 4
+0518:fixme:ntdll:NtSetInformationToken TokenIntegrityLevel stub!
+0518:fixme:sync:NtSetInformationJobObject stub: 0xed4 4 0x1498eb4c 4
+0518:fixme:process:GetProcessMitigationPolicy (FFFFFFFFFFFFFFFF, 5, 000000014037EED0, 16): stub
+0518:fixme:process:validate_proc_thread_attribute Unhandled attribute 26
+04bc:fixme:process:create_nt_process Unsupported attribute 0x2000e.
+07f4:fixme:winsock:setsockopt Ignoring SO_RANDOMIZE_PORT
+081c:fixme:winsock:WSAIoctl unimplemented ioctl _WSAIORW(IOC_WS2, 25)
+081c:fixme:winsock:server_ioctl_sock Unsupported ioctl 0x120348 (device=0x12 access=0 func=0xd2 method=0)
+03a0:fixme:win:create_window_handle DPI context 0x22 not implemented
+03a0:fixme:wtsapi:WTSRegisterSessionNotification Stub 00000000000200DE 0x00000000
+03a0:fixme:win:RegisterSuspendResumeNotification 00000000000200DE, 0: stub.
+0830:fixme:seh:WerRegisterRuntimeExceptionModule (L"C:\\users\\cyc-mint\\AppData\\Local\\Programs\\Quark\\7.4.9.1045\\quark_wer.dll", 00006FFFFC2838F0) stub
+0534:fixme:dxcore:dxcore_adapter_factory_CreateAdapterList iface 00006FFFFDB44030, num_attributes 1, filter_attributes 000000000081E210, riid {526c7776-40e9-459b-b711-f32ad76dfc28}, out 000000000081E290 semi-stub!
+0534:fixme:win:create_window_handle DPI context 0x22 not implemented
+info:  Found device: NVIDIA GeForce GTX 1660 Ti (NVIDIA 580.178.4)
+info:  Found device: NVIDIA GeForce GTX 1660 Ti (NVIDIA 580.178.4)
+info:  Found device: llvmpipe (LLVM 21.1.8, 256 bits) (llvmpipe 26.2.5)
+info:    Skipping: Software driver
+info:  Found device: llvmpipe (LLVM 21.1.8, 256 bits) (llvmpipe 26.2.5)
+info:    Skipping: Software driver
+info:  DXGI: Hiding actual GPU, reporting:
+info:    vendor ID: 0x1002
+info:    device ID: 0x73df
+info:  DXGI: Hiding actual GPU, reporting:
+info:    vendor ID: 0x1002
+info:    device ID: 0x73df
+03a0:fixme:process:GetProcessInformation Unsupported information class 4.
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0xf2c,0x81de80,0x00000010,(nil)) stub
+063c:fixme:powrprof:PowerRegisterSuspendResumeNotification (0x00000002,000000000081EF00,000000000081EF38) stub!
+063c:fixme:process:SetProcessShutdownParameters (0000027f, 00000001): partial stub.
+06fc:fixme:powrprof:PowerRegisterSuspendResumeNotification (0x00000002,000000000081EF00,000000000081EF38) stub!
+06fc:fixme:process:SetProcessShutdownParameters (0000027f, 00000001): partial stub.
+info:  Game: quark.exe
+info:  DXVK: v3.1.1
+info:  Build: x86_64 gcc 16.2.0
+06e4:fixme:powrprof:PowerRegisterSuspendResumeNotification (0x00000002,000000000081EF00,000000000081EF38) stub!
+06e4:fixme:process:SetProcessShutdownParameters (0000027f, 00000001): partial stub.
+064c:fixme:powrprof:PowerRegisterSuspendResumeNotification (0x00000002,000000000081EF00,000000000081EF38) stub!
+064c:fixme:process:SetProcessShutdownParameters (0000027f, 00000001): partial stub.
+06fc:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+06fc:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+06fc:fixme:heap:RtlSetHeapInformation HEAP_INFORMATION_CLASS 1 not implemented!
+063c:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+063c:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+063c:fixme:heap:RtlSetHeapInformation HEAP_INFORMATION_CLASS 1 not implemented!
+06fc:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+info:  Vulkan: Found vkGetInstanceProcAddr in winevulkan.dll @ 0x6ffffcf080a0
+info:  Extension providers:
+info:    Platform WSI
+info:    OpenVR
+info:  OpenVR: could not open registry key, status 2
+06e4:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+06e4:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+06e4:fixme:heap:RtlSetHeapInformation HEAP_INFORMATION_CLASS 1 not implemented!
+064c:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+064c:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+064c:fixme:heap:RtlSetHeapInformation HEAP_INFORMATION_CLASS 1 not implemented!
+06fc:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {00000000-0000-0000-0000-000000000000}
+063c:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+06e4:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+info:  OpenVR: Failed to locate module
+info:    OpenXR
+06fc:fixme:process:GetProcessMitigationPolicy (FFFFFFFFFFFFFFFF, 4, 000000000081F3F0, 4): stub
+06e4:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {00000000-0000-0000-0000-000000000000}
+064c:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+06e4:fixme:process:GetProcessMitigationPolicy (FFFFFFFFFFFFFFFF, 4, 000000000081F3F0, 4): stub
+06fc:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 0000701800050188, 16) stub
+063c:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {00000000-0000-0000-0000-000000000000}
+063c:fixme:process:GetProcessMitigationPolicy (FFFFFFFFFFFFFFFF, 4, 000000000081F3F0, 4): stub
+06e4:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 0000789800060188, 16) stub
+064c:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {00000000-0000-0000-0000-000000000000}
+064c:fixme:process:GetProcessMitigationPolicy (FFFFFFFFFFFFFFFF, 4, 000000000081F3F0, 4): stub
+08a4:fixme:thread:NtSetInformationThread info class 24 not supported yet
+info:  Enabled instance extensions:
+08a4:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+info:    VK_KHR_get_surface_capabilities2
+info:    VK_KHR_surface
+info:    VK_KHR_surface_maintenance1
+info:    VK_KHR_win32_surface
+063c:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 000079B8000E40D8, 16) stub
+064c:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 000054F0000E40D8, 16) stub
+0818:fixme:winsock:WSAIoctl unimplemented ioctl _WSAIORW(IOC_WS2, 25)
+0818:fixme:winsock:server_ioctl_sock Unsupported ioctl 0x120348 (device=0x12 access=0 func=0xd2 method=0)
+07ec:fixme:winsock:WSAIoctl unimplemented ioctl _WSAIORW(IOC_WS2, 25)
+07ec:fixme:winsock:server_ioctl_sock Unsupported ioctl 0x120348 (device=0x12 access=0 func=0xd2 method=0)
+06e4:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+0808:fixme:winsock:WSAIoctl unimplemented ioctl _WSAIORW(IOC_WS2, 25)
+0864:fixme:winsock:WSAIoctl unimplemented ioctl _WSAIORW(IOC_WS2, 25)
+0808:fixme:winsock:server_ioctl_sock Unsupported ioctl 0x120348 (device=0x12 access=0 func=0xd2 method=0)
+081c:fixme:winsock:WSAIoctl unimplemented ioctl _WSAIORW(IOC_WS2, 25)
+081c:fixme:winsock:server_ioctl_sock Unsupported ioctl 0x120348 (device=0x12 access=0 func=0xd2 method=0)
+0864:fixme:winsock:server_ioctl_sock Unsupported ioctl 0x120348 (device=0x12 access=0 func=0xd2 method=0)
+064c:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+063c:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+07f4:fixme:winsock:setsockopt Ignoring SO_RANDOMIZE_PORT
+0868:fixme:winsock:WSAIoctl unimplemented ioctl _WSAIORW(IOC_WS2, 25)
+0870:fixme:winsock:WSAIoctl unimplemented ioctl _WSAIORW(IOC_WS2, 25)
+0874:fixme:winsock:WSAIoctl unimplemented ioctl _WSAIORW(IOC_WS2, 25)
+08d8:fixme:thread:NtSetInformationThread info class 24 not supported yet
+08d8:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0870:fixme:winsock:server_ioctl_sock Unsupported ioctl 0x120348 (device=0x12 access=0 func=0xd2 method=0)
+0868:fixme:winsock:server_ioctl_sock Unsupported ioctl 0x120348 (device=0x12 access=0 func=0xd2 method=0)
+08e4:fixme:thread:NtSetInformationThread info class 24 not supported yet
+08e4:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+08e0:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0874:fixme:winsock:server_ioctl_sock Unsupported ioctl 0x120348 (device=0x12 access=0 func=0xd2 method=0)
+info:  Found device: NVIDIA GeForce GTX 1660 Ti (NVIDIA 580.178.4)
+08e8:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+info:  Found device: NVIDIA GeForce GTX 1660 Ti (NVIDIA 580.178.4)
+086c:fixme:winsock:WSAIoctl unimplemented ioctl _WSAIORW(IOC_WS2, 25)
+086c:fixme:winsock:server_ioctl_sock Unsupported ioctl 0x120348 (device=0x12 access=0 func=0xd2 method=0)
+info:  Found device: llvmpipe (LLVM 21.1.8, 256 bits) (llvmpipe 26.2.5)
+info:    Skipping: Software driver
+info:  Found device: llvmpipe (LLVM 21.1.8, 256 bits) (llvmpipe 26.2.5)
+info:    Skipping: Software driver
+info:  DXGI: Hiding actual GPU, reporting:
+info:    vendor ID: 0x1002
+info:    device ID: 0x73df
+0534:fixme:dxcore:dxcore_adapter_factory_CreateAdapterList iface 00006FFFFDB44030, num_attributes 1, filter_attributes 000000000081E220, riid {526c7776-40e9-459b-b711-f32ad76dfc28}, out 000000000081E290 semi-stub!
+0534:fixme:win:create_window_handle DPI context 0x22 not implemented
+063c:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 00006FFFFAE102ED, 8) stub
+064c:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 00006FFFFAE102ED, 8) stub
+info:  DXGI: Hiding actual GPU, reporting:
+info:    vendor ID: 0x1002
+info:    device ID: 0x73df
+091c:fixme:sync:SetWaitableTimerEx (00000000000001FC, 000000000B89FD80, 0, 0000000000000000, 0000000000000000, 0000000000000000, 6000) semi-stub
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0x98c,0x81e110,0x00000010,(nil)) stub
+08a8:fixme:thread:QueryThreadCycleTime (FFFFFFFFFFFFFFFE,0000000008DFF5F0): stub!
+07f4:fixme:winsock:setsockopt Ignoring SO_RANDOMIZE_PORT
+0840:fixme:seh:WerRegisterRuntimeExceptionModule (L"C:\\users\\cyc-mint\\AppData\\Local\\Programs\\Quark\\7.4.9.1045\\quark_wer.dll", 00006FFFFC2838F0) stub
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0xf00,0x81e110,0x00000010,(nil)) stub
+093c:fixme:thread:NtSetInformationThread info class 24 not supported yet
+093c:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0964:fixme:kernelbase:AppPolicyGetThreadInitializationType FFFFFFFFFFFFFFFA, 000000000C84FF50
+06e4:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 00006FFFFAE102ED, 8) stub
+0534:fixme:dxcore:dxcore_adapter_GetProperty Returning all adapters as Hardware.
+0534:fixme:dxcore:dxcore_adapter_IsAttributeSupported iface 0000000000860FF0, attribute {0c9ece4d-2f6e-4f01-8c96-e89e331b47b1} stub!
+0534:fixme:dxcore:dxcore_adapter_IsAttributeSupported iface 0000000000860FF0, attribute {8c47866b-7583-450d-f0f0-6bada895af4b} stub!
+0538:fixme:process:GetFirmwareEnvironmentVariableW stub: L"OfflineUniqueIDRandomSeed" L"{eaec226f-c9a3-477a-a826-ddc716cdc0e3}" 00006FFFE844D924 4096
+0538:fixme:process:GetFirmwareEnvironmentVariableW stub: L"OfflineUniqueIDEKPubCRC" L"{eaec226f-c9a3-477a-a826-ddc716cdc0e3}" 00006FFFE844E93C 4096
+0538:fixme:process:GetFirmwareEnvironmentVariableW stub: L"UnlockIDCopy" L"{eaec226f-c9a3-477a-a826-ddc716cdc0e3}" 00006FFFE844F954 4096
+0538:fixme:process:GetFirmwareEnvironmentVariableW stub: L"BiosInstallDate" L"{fb3b9ece-4aba-4933-b49d-b4d67d892351}" 00006FFFE845096C 4096
+0538:fixme:process:GetFirmwareEnvironmentVariableW stub: L"BuildId" L"{20ab3eb1-3c8f-4a4c-b87e-372426066d97}" 00006FFFE8451984 4096
+0538:fixme:ntdll:NtQuerySystemInformation (0x0000005a,0x17e4f250,0x00000020,(nil)) stub
+0538:fixme:ntdll:NtQuerySystemInformation (0x0000005a,0x17e4f250,0x00000020,(nil)) stub
+03a0:fixme:dwmapi:DwmDefWindowProc stub
+0050:fixme:mountmgr:query_property Faking StorageDeviceProperty data
+0050:fixme:mountmgr:query_property Unsupported property 0x2
+0050:fixme:mountmgr:disk_ioctl Unsupported ioctl 70048 (device=7 access=0 func=12 method=0)
+05b4:fixme:combase:RoGetActivationFactory (L"Windows.UI.ViewManagement.InputPane", {75cf2c57-9195-4931-8332-f0b409e916af}, 0000000020D1F6E8): semi-stub
+05b4:fixme:ui:inputpane_add_Showing iface 000000000E3AA940, handler 0000219C0055B810, token 0000219C007E4E08 stub!
+05b4:fixme:ui:inputpane_add_Hiding iface 000000000E3AA940, handler 0000219C0055B810, token 0000219C007E4E10 stub!
+05b4:fixme:ui:inputpane2_TryHide iface 000000000E3AA948, result 0000000020D1F777 stub!
+0050:fixme:mountmgr:query_property Faking StorageDeviceProperty data
+0050:fixme:mountmgr:query_property Unsupported property 0x2
+0050:fixme:mountmgr:disk_ioctl Unsupported ioctl 70048 (device=7 access=0 func=12 method=0)
+0050:fixme:mountmgr:query_property Faking StorageDeviceProperty data
+0050:fixme:mountmgr:query_property Unsupported property 0x2
+0050:fixme:mountmgr:disk_ioctl Unsupported ioctl 70048 (device=7 access=0 func=12 method=0)
+08b0:fixme:bcrypt:BCryptGenRandom ignoring selected algorithm
+0574:fixme:ntdll:NtFilterToken flags 0x1 unsupported
+0574:fixme:ntdll:NtFilterToken support for restricting sids not yet implemented
+0574:fixme:advapi:SetEntriesInAclW unhandled access mode 4
+0574:fixme:ntdll:NtSetInformationToken TokenIntegrityLevel stub!
+0574:fixme:ntdll:NtFilterToken support for restricting sids not yet implemented
+0574:fixme:advapi:SetEntriesInAclW unhandled access mode 4
+0574:fixme:ntdll:NtSetInformationToken TokenIntegrityLevel stub!
+0574:fixme:sync:NtSetInformationJobObject stub: 0xe58 4 0x1d80eb4c 4
+0574:fixme:process:GetProcessMitigationPolicy (FFFFFFFFFFFFFFFF, 5, 000000014037EED0, 16): stub
+0574:fixme:process:validate_proc_thread_attribute Unhandled attribute 26
+0050:fixme:mountmgr:query_property Faking StorageDeviceProperty data
+info:  Game: quark.exe
+info:  DXVK: v3.1.1
+info:  Build: x86_64 gcc 16.2.0
+0050:fixme:mountmgr:query_property Unsupported property 0x2
+0050:fixme:mountmgr:disk_ioctl Unsupported ioctl 70048 (device=7 access=0 func=12 method=0)
+info:  Vulkan: Found vkGetInstanceProcAddr in winevulkan.dll @ 0x6ffffcf080a0
+info:  Extension providers:
+info:    Platform WSI
+info:    OpenVR
+info:  OpenVR: could not open registry key, status 2
+08b0:fixme:file:NtLockFile I/O completion on lock not implemented yet
+04bc:fixme:process:create_nt_process Unsupported attribute 0x2000e.
+info:  OpenVR: Failed to locate module
+info:    OpenXR
+09a8:fixme:kernelbase:AppPolicyGetThreadInitializationType FFFFFFFFFFFFFFFA, 0000000012D5FF50
+09ac:fixme:kernelbase:AppPolicyGetThreadInitializationType FFFFFFFFFFFFFFFA, 000000001355FF50
+09b0:fixme:thread:NtSetInformationThread info class 24 not supported yet
+09b0:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+09a0:fixme:kernelbase:AppPolicyGetThreadInitializationType FFFFFFFFFFFFFFFA, 0000000011D5FF50
+09b4:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+09b4:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+08b0:fixme:netprofm:init_networks no support for detecting network changes
+09b4:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+09b4:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+08b0:fixme:netprofm:connection_point_Advise 000000000E59F1C0, 000000000E48F810, 000000000E59F430 - semi-stub
+08b0:fixme:netprofm:connection_GetAdapterId 0000000000E96430, 00000000095FEBE0
+info:  Enabled instance extensions:
+info:    VK_KHR_get_surface_capabilities2
+info:    VK_KHR_surface
+info:    VK_KHR_surface_maintenance1
+info:    VK_KHR_win32_surface
+09b4:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+09b4:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+03a0:fixme:combase:RoGetActivationFactory (L"Windows.Media.ClosedCaptioning.ClosedCaptionProperties", {10aa1f84-cc30-4141-b503-5272289e0c20}, 000000000081B138): semi-stub
+03a0:fixme:media:captions_get_FontSize iface 00006FFFFDB15048, value 000000000081B134 semi-stub.
+03a0:fixme:media:captions_get_FontEffect iface 00006FFFFDB15048, value 000000000081B130 semi-stub.
+03a0:fixme:media:captions_get_FontStyle iface 00006FFFFDB15048, value 000000000081B12C semi-stub.
+03a0:fixme:media:captions_get_FontColor iface 00006FFFFDB15048, value 000000000081B128 semi-stub.
+03a0:fixme:media:captions_get_FontOpacity iface 00006FFFFDB15048, value 000000000081B124 semi-stub.
+03a0:fixme:media:captions_get_BackgroundColor iface 00006FFFFDB15048, value 000000000081B120 semi-stub.
+03a0:fixme:media:captions_get_BackgroundOpacity iface 00006FFFFDB15048, value 000000000081B11C semi-stub.
+03a0:fixme:media:captions_get_RegionColor iface 00006FFFFDB15048, value 000000000081B118 semi-stub.
+03a0:fixme:media:captions_get_RegionOpacity iface 00006FFFFDB15048, value 000000000081B114 semi-stub.
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0xd3c,0x81bfa0,0x00000010,(nil)) stub
+0050:fixme:mountmgr:query_property Faking StorageDeviceSeekPenaltyProperty data.
+09b4:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0050:fixme:mountmgr:query_property Faking StorageDeviceProperty data
+0050:fixme:mountmgr:query_property Unsupported property 0x2
+09b4:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+09c0:fixme:bcrypt:BCryptGenRandom ignoring selected algorithm
+0050:fixme:mountmgr:disk_ioctl Unsupported ioctl 70048 (device=7 access=0 func=12 method=0)
+09c0:fixme:wbemprox:client_security_SetBlanket 00006FFFFE30B010, 0000000018381040, 10, 0, (null), 3, 3, 0000000000000000, 0
+09c0:fixme:wbemprox:client_security_SetBlanket 00006FFFFE30B010, 0000000018381160, 10, 0, (null), 3, 3, 0000000000000000, 0
+info:  Found device: NVIDIA GeForce GTX 1660 Ti (NVIDIA 580.178.4)
+info:  Found device: NVIDIA GeForce GTX 1660 Ti (NVIDIA 580.178.4)
+info:  Found device: llvmpipe (LLVM 21.1.8, 256 bits) (llvmpipe 26.2.5)
+info:    Skipping: Software driver
+03a0:fixme:win:create_window_handle DPI context 0x22 not implemented
+info:  Found device: llvmpipe (LLVM 21.1.8, 256 bits) (llvmpipe 26.2.5)
+info:    Skipping: Software driver
+info:  DXGI: Hiding actual GPU, reporting:
+info:    vendor ID: 0x1002
+info:    device ID: 0x73df
+info:  DXGI: Hiding actual GPU, reporting:
+info:    vendor ID: 0x1002
+info:    device ID: 0x73df
+info:  DXGI: Hiding actual GPU, reporting:
+info:    vendor ID: 0x1002
+info:    device ID: 0x73df
+info:  DXGI: Hiding actual GPU, reporting:
+info:    vendor ID: 0x1002
+info:    device ID: 0x73df
+09c0:err:winediag:is_broken_driver Broken NVIDIA RandR detected, falling back to RandR 1.0. Please consider using the Nouveau driver instead.
+0674:fixme:winsock:setsockopt Ignoring SO_RANDOMIZE_PORT
+0534:fixme:ver:GetPackagesByPackageFamily (L"DolbyLaboratories.DolbyDigitalPlusDecoderOEM_rz1tebttyb220" 000000000081E1EC 0000000000000000 000000000081E1E8 0000000000000000): stub
+0534:fixme:ver:GetPackagesByPackageFamily (L"DolbyLaboratories.DolbyAC4DecoderOEM_rz1tebttyb220" 000000000081E1EC 0000000000000000 000000000081E1E8 0000000000000000): stub
+0534:fixme:ver:GetPackagesByPackageFamily (L"Microsoft.HEVCVideoExtension_8wekyb3d8bbwe" 000000000081E1EC 0000000000000000 000000000081E1E8 0000000000000000): stub
+0534:fixme:ver:GetPackagesByPackageFamily (L"Microsoft.HEVCVideoExtensions_8wekyb3d8bbwe" 000000000081E1EC 0000000000000000 000000000081E1E8 0000000000000000): stub
+0534:fixme:ver:GetPackagesByPackageFamily (L"DolbyLaboratories.DolbyVisionAccess_rz1tebttyb220" 000000000081E1EC 0000000000000000 000000000081E1E8 0000000000000000): stub
+0534:fixme:ver:GetPackagesByPackageFamily (L"DolbyLaboratories.DolbyVisionHDR_rz1tebttyb220" 000000000081E1EC 0000000000000000 000000000081E1E8 0000000000000000): stub
+00e8:fixme:icon:NtUserDrawIconEx Error retrieving icon frame 0
+00e8:fixme:icon:NtUserDrawIconEx Error retrieving icon frame 0
+00e8:fixme:icon:NtUserDrawIconEx Error retrieving icon frame 0
+00e8:fixme:icon:NtUserDrawIconEx Error retrieving icon frame 0
+03a0:fixme:process:GetProcessInformation Unsupported information class 4.
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0x1004,0x81de80,0x00000010,(nil)) stub
+09d8:fixme:thread:QueryThreadCycleTime (000000000000018C,0000000004D1FD80): stub!
+0518:fixme:ntdll:NtFilterToken flags 0x1 unsupported
+0518:fixme:ntdll:NtFilterToken support for restricting sids not yet implemented
+0518:fixme:advapi:SetEntriesInAclW unhandled access mode 4
+0518:fixme:ntdll:NtSetInformationToken TokenIntegrityLevel stub!
+03a0:fixme:combase:RoGetActivationFactory (L"Windows.Media.ClosedCaptioning.ClosedCaptionProperties", {10aa1f84-cc30-4141-b503-5272289e0c20}, 000000000081A4B8): semi-stub
+0518:fixme:ntdll:NtFilterToken support for restricting sids not yet implemented
+07f4:fixme:winsock:setsockopt Ignoring SO_RANDOMIZE_PORT
+03a0:fixme:media:captions_get_FontSize iface 00006FFFFDB15048, value 000000000081A4B4 semi-stub.
+03a0:fixme:media:captions_get_FontEffect iface 00006FFFFDB15048, value 000000000081A4B0 semi-stub.
+03a0:fixme:media:captions_get_FontStyle iface 00006FFFFDB15048, value 000000000081A4AC semi-stub.
+03a0:fixme:media:captions_get_FontColor iface 00006FFFFDB15048, value 000000000081A4A8 semi-stub.
+03a0:fixme:media:captions_get_FontOpacity iface 00006FFFFDB15048, value 000000000081A4A4 semi-stub.
+03a0:fixme:media:captions_get_BackgroundColor iface 00006FFFFDB15048, value 000000000081A4A0 semi-stub.
+03a0:fixme:media:captions_get_BackgroundOpacity iface 00006FFFFDB15048, value 000000000081A49C semi-stub.
+03a0:fixme:media:captions_get_RegionColor iface 00006FFFFDB15048, value 000000000081A498 semi-stub.
+03a0:fixme:media:captions_get_RegionOpacity iface 00006FFFFDB15048, value 000000000081A494 semi-stub.
+0518:fixme:advapi:SetEntriesInAclW unhandled access mode 4
+0518:fixme:ntdll:NtSetInformationToken TokenIntegrityLevel stub!
+0518:fixme:sync:NtSetInformationJobObject stub: 0x1024 4 0x1498eb4c 4
+0518:fixme:process:GetProcessMitigationPolicy (FFFFFFFFFFFFFFFF, 5, 000000014037EED0, 16): stub
+0518:fixme:process:validate_proc_thread_attribute Unhandled attribute 26
+03a0:fixme:win:create_window_handle DPI context 0x22 not implemented
+09dc:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+064c:fixme:ntdll:NtSetInformationToken TokenIntegrityLevel stub!
+064c:fixme:process:NtQueryInformationProcess ProcessHandleCount (0xffffffffffffffff,0x81eae4,0x00000004,(nil)) stub
+064c:fixme:process:NtQueryInformationProcess ProcessHandleTable (0xffffffffffffffff,0x3c1000095000,0x00000fa0,0x81eae8) stub
+09e4:fixme:thread:NtSetInformationThread info class 24 not supported yet
+064c:fixme:process:SetProcessMitigationPolicy (8, 000000000081EBA0, 4): stub
+09e4:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+info:  Game: quark.exe
+info:  DXVK: v3.1.1
+info:  Build: x86_64 gcc 16.2.0
+04c0:fixme:process:create_nt_process Unsupported attribute 0x2000e.
+03a0:fixme:manipulation:viewport_ActivateConfiguration 0000000015DB31A0, 823
+03a0:fixme:manipulation:viewport_SetViewportOptions 0000000015DB31A0, 2
+03a0:fixme:manipulation:viewport_SetViewportRect 0000000015DB31A0, 000000000081BA50
+03a0:fixme:manipulation:direct_manip_Activate 0000000015DB3140, 0000000000010112
+03a0:fixme:manipulation:viewport_Abandon 0000000015DB31A0
+info:  Vulkan: Found vkGetInstanceProcAddr in winevulkan.dll @ 0x6fffe6c880a0
+info:  Extension providers:
+info:    Platform WSI
+info:    OpenVR
+info:  OpenVR: could not open registry key, status 2
+info:  OpenVR: Failed to locate module
+info:    OpenXR
+info:  Game: quark.exe
+info:  DXVK: v3.1.1
+info:  Build: x86_64 gcc 16.2.0
+info:  Vulkan: Found vkGetInstanceProcAddr in winevulkan.dll @ 0x6fffe6c880a0
+info:  Extension providers:
+info:    Platform WSI
+info:    OpenVR
+info:  OpenVR: could not open registry key, status 2
+info:  OpenVR: Failed to locate module
+info:    OpenXR
+0868:fixme:winsock:WSAIoctl unimplemented ioctl _WSAIORW(IOC_WS2, 25)
+0868:fixme:winsock:server_ioctl_sock Unsupported ioctl 0x120348 (device=0x12 access=0 func=0xd2 method=0)
+03a0:fixme:msctf:SetInputScope STUB: 00000000000200B6 0
+03a0:fixme:manipulation:viewport_ActivateConfiguration 0000000015DB31A0, 823
+03a0:fixme:manipulation:viewport_SetViewportOptions 0000000015DB31A0, 2
+03a0:fixme:manipulation:viewport_SetViewportRect 0000000015DB31A0, 000000000081BBF0
+03a0:fixme:manipulation:direct_manip_Activate 0000000015DB3140, 0000000000010112
+03a0:fixme:manipulation:viewport_Abandon 0000000015DB31A0
+0830:fixme:powrprof:PowerRegisterSuspendResumeNotification (0x00000002,000000000081EF00,000000000081EF38) stub!
+0830:fixme:process:SetProcessShutdownParameters (0000027f, 00000001): partial stub.
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0x1004,0x81b320,0x00000010,(nil)) stub
+0830:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0830:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0830:fixme:heap:RtlSetHeapInformation HEAP_INFORMATION_CLASS 1 not implemented!
+0830:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+0830:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {00000000-0000-0000-0000-000000000000}
+0830:fixme:process:GetProcessMitigationPolicy (FFFFFFFFFFFFFFFF, 4, 000000000081F3F0, 4): stub
+0830:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 00006848000E40D8, 16) stub
+03a0:fixme:manipulation:viewport_ActivateConfiguration 0000000015DB31D0, 823
+03a0:fixme:manipulation:viewport_SetViewportOptions 0000000015DB31D0, 2
+03a0:fixme:manipulation:viewport_SetViewportRect 0000000015DB31D0, 000000000081C4F0
+03a0:fixme:manipulation:direct_manip_Activate 0000000015DB3140, 0000000000010112
+03a0:fixme:manipulation:viewport_Abandon 0000000015DB31D0
+03a0:fixme:manipulation:viewport_ActivateConfiguration 0000000015DB31D0, 823
+03a0:fixme:manipulation:viewport_SetViewportOptions 0000000015DB31D0, 2
+03a0:fixme:manipulation:viewport_SetViewportRect 0000000015DB31D0, 000000000081C880
+03a0:fixme:manipulation:direct_manip_Activate 0000000015DB3140, 0000000000010112
+03a0:fixme:manipulation:viewport_Abandon 0000000015DB31D0
+0998:fixme:seh:WerRegisterRuntimeExceptionModule (L"C:\\users\\cyc-mint\\AppData\\Local\\Programs\\Quark\\7.4.9.1045\\quark_wer.dll", 00006FFFFC2838F0) stub
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+0830:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0538:fixme:ntdll:enum_firmware_info info_class SYSTEM_FIRMWARE_TABLE_INFORMATION provider 41435049
+0a10:fixme:thread:NtSetInformationThread info class 24 not supported yet
+0a10:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0a14:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+03a0:fixme:win:create_window_handle DPI context 0x22 not implemented
+info:  Enabled instance extensions:
+info:    VK_KHR_get_surface_capabilities2
+info:    VK_KHR_surface
+info:    VK_KHR_surface_maintenance1
+info:    VK_KHR_win32_surface
+03a0:fixme:uxtheme:AllowDarkModeForWindow 0000000000010114 1: stub
+03a0:fixme:dwmapi:DwmExtendFrameIntoClientArea (0000000000010114, 000000000081C610) stub
+0a28:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0830:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 00006FFFFAE102ED, 8) stub
+0a30:fixme:thread:NtSetInformationThread info class 24 not supported yet
+063c:fixme:ntdll:NtSetInformationToken TokenIntegrityLevel stub!
+0a30:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+063c:fixme:process:NtQueryInformationProcess ProcessHandleCount (0xffffffffffffffff,0x81eae4,0x00000004,(nil)) stub
+063c:fixme:process:NtQueryInformationProcess ProcessHandleTable (0xffffffffffffffff,0x6ed000095000,0x00000fa0,0x81eae8) stub
+063c:fixme:process:SetProcessMitigationPolicy (8, 000000000081EBA0, 4): stub
+03a0:fixme:dwmapi:DwmExtendFrameIntoClientArea (0000000000010114, 000000000081C980) stub
+03a0:fixme:dwmapi:DwmExtendFrameIntoClientArea (0000000000010114, 000000000081CD50) stub
+03a0:fixme:dwmapi:DwmExtendFrameIntoClientArea (0000000000010114, 000000000081CD50) stub
+03a0:fixme:dwmapi:DwmExtendFrameIntoClientArea (0000000000010114, 000000000081CD50) stub
+03a0:fixme:dwmapi:DwmExtendFrameIntoClientArea (0000000000010114, 000000000081CD80) stub
+03a0:fixme:dwmapi:DwmExtendFrameIntoClientArea (0000000000010114, 000000000081CFF0) stub
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0xe18,0x81e110,0x00000010,(nil)) stub
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+03a0:fixme:win:create_window_handle DPI context 0x22 not implemented
+03a0:fixme:dwmapi:DwmExtendFrameIntoClientArea (000000000001011A, 000000000081C080) stub
+03a0:fixme:uxtheme:AllowDarkModeForWindow 000000000001011A 1: stub
+0538:fixme:ntdll:enum_firmware_info info_class SYSTEM_FIRMWARE_TABLE_INFORMATION provider 41435049
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+0538:fixme:ntdll:enum_firmware_info info_class SYSTEM_FIRMWARE_TABLE_INFORMATION provider 41435049
+03a0:fixme:process:GetProcessInformation Unsupported information class 4.
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0x10d8,0x81de80,0x00000010,(nil)) stub
+info:  Found device: NVIDIA GeForce GTX 1660 Ti (NVIDIA 580.178.4)
+info:  Found device: NVIDIA GeForce GTX 1660 Ti (NVIDIA 580.178.4)
+info:  Found device: llvmpipe (LLVM 21.1.8, 256 bits) (llvmpipe 26.2.5)
+info:    Skipping: Software driver
+info:  Found device: llvmpipe (LLVM 21.1.8, 256 bits) (llvmpipe 26.2.5)
+info:    Skipping: Software driver
+info:  DXGI: Hiding actual GPU, reporting:
+info:    vendor ID: 0x1002
+info:    device ID: 0x73df
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0xbd0,0x81bb20,0x00000010,(nil)) stub
+info:  Creating device:
+info:  NVIDIA GeForce GTX 1660 Ti:
+info:    Driver   : NVIDIA 580.178.4
+info:  Queues:
+info:    Graphics : (0, 0)
+info:    Transfer : (1, 0)
+info:    Sparse   : (0, 0)
+info:  Memory:
+info:    Heap 0: 6.0 GiB (DEVICE_LOCAL)
+info:    Budget: 5.8 GiB
+info:      Type  1: DEVICE_LOCAL
+info:      Type  2: DEVICE_LOCAL
+info:    Heap 1: 8.69 GiB
+info:    Budget: 8.69 GiB
+info:      Type  0: (None)
+info:      Type  3: HOST_VISIBLE | HOST_COHERENT
+info:      Type  4: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED
+info:    Heap 2: 246 MiB (DEVICE_LOCAL)
+info:    Budget: 221 MiB
+info:      Type  5: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT
+info:  Enabled extensions:
+info:    VK_EXT_attachment_feedback_loop_layout
+info:    VK_EXT_border_color_swizzle
+info:    VK_EXT_conservative_rasterization
+info:    VK_EXT_custom_border_color
+info:    VK_EXT_depth_clip_enable
+info:    VK_EXT_depth_bias_control
+info:    VK_EXT_descriptor_buffer
+info:    VK_EXT_dynamic_rendering_unused_attachments
+info:    VK_EXT_extended_dynamic_state3
+info:    VK_EXT_fragment_shader_interlock
+info:    VK_EXT_graphics_pipeline_library
+info:    VK_EXT_line_rasterization
+info:    VK_EXT_memory_priority
+info:    VK_EXT_multi_draw
+info:    VK_EXT_non_seamless_cube_map
+info:    VK_EXT_pageable_device_local_memory
+info:    VK_EXT_robustness2
+info:    VK_EXT_sample_locations
+info:    VK_EXT_shader_module_identifier
+info:    VK_EXT_swapchain_maintenance1
+info:    VK_EXT_transform_feedback
+info:    VK_EXT_vertex_attribute_divisor
+info:    VK_KHR_dynamic_rendering_local_read
+info:    VK_KHR_external_memory_win32
+info:    VK_KHR_external_semaphore_win32
+info:    VK_KHR_incremental_present
+info:    VK_KHR_load_store_op_none
+info:    VK_KHR_maintenance5
+info:    VK_KHR_maintenance6
+info:    VK_KHR_maintenance7
+info:    VK_KHR_maintenance8
+info:    VK_KHR_pipeline_library
+info:    VK_KHR_present_id
+info:    VK_KHR_present_wait
+info:    VK_KHR_shader_float_controls2
+info:    VK_KHR_shader_subgroup_uniform_control_flow
+info:    VK_KHR_swapchain
+info:    VK_KHR_swapchain_mutable_format
+info:    VK_KHR_win32_keyed_mutex
+info:    VK_NV_low_latency2
+info:    VK_NV_raw_access_chains
+info:    VK_NVX_binary_import
+info:    VK_NVX_image_view_handle
+info:  Enabled features:
+info:    depthBiasClamp                 : 1
+info:    depthBounds                    : 1
+info:    depthClamp                     : 1
+info:    drawIndirectFirstInstance      : 1
+info:    dualSrcBlend                   : 1
+info:    fillModeNonSolid               : 1
+info:    fragmentStoresAndAtomics       : 1
+info:    fullDrawIndexUint32            : 1
+info:    geometryShader                 : 1
+info:    imageCubeArray                 : 1
+info:    independentBlend               : 1
+info:    largePoints                    : 1
+info:    logicOp                        : 1
+info:    multiDrawIndirect              : 1
+info:    multiViewport                  : 1
+info:    occlusionQueryPrecise          : 1
+info:    pipelineStatisticsQuery        : 1
+info:    robustBufferAccess             : 1
+info:    sampleRateShading              : 1
+info:    samplerAnisotropy              : 1
+info:    shaderClipDistance             : 1
+info:    shaderCullDistance             : 1
+info:    shaderFloat64                  : 1
+info:    shaderImageGatherExtended      : 1
+info:    shaderInt16                    : 1
+info:    shaderInt64                    : 1
+info:    shaderUniformBufferArrayDynamicIndexing : 1
+info:    shaderSampledImageArrayDynamicIndexing : 1
+info:    shaderStorageBufferArrayDynamicIndexing : 1
+info:    shaderStorageImageArrayDynamicIndexing : 1
+info:    sparseBinding                  : 1
+info:    sparseResidencyBuffer          : 1
+info:    sparseResidencyImage2D         : 1
+info:    sparseResidencyImage3D         : 1
+info:    sparseResidency2Samples        : 1
+info:    sparseResidency4Samples        : 1
+info:    sparseResidency8Samples        : 1
+info:    sparseResidency16Samples       : 1
+info:    sparseResidencyAliased         : 1
+info:    shaderResourceResidency        : 1
+info:    shaderResourceMinLod           : 1
+info:    tessellationShader             : 1
+info:    textureCompressionBC           : 1
+info:    variableMultisampleRate        : 1
+info:    vertexPipelineStoresAndAtomics : 1
+info:    wideLines                      : 1
+info:    shaderDrawParameters           : 1
+info:    storageBuffer16BitAccess       : 1
+info:    storagePushConstant16          : 1
+info:    bufferDeviceAddress            : 1
+info:    descriptorIndexing             : 1
+info:    storageBuffer8BitAccess        : 1
+info:    storagePushConstant8           : 1
+info:    shaderUniformTexelBufferArrayDynamicIndexing : 1
+info:    shaderStorageTexelBufferArrayDynamicIndexing : 1
+info:    shaderUniformBufferArrayNonUniformIndexing : 1
+info:    shaderSampledImageArrayNonUniformIndexing : 1
+info:    shaderStorageBufferArrayNonUniformIndexing : 1
+info:    shaderStorageImageArrayNonUniformIndexing : 1
+info:    shaderUniformTexelBufferArrayNonUniformIndexing : 1
+info:    shaderStorageTexelBufferArrayNonUniformIndexing : 1
+info:    descriptorBindingSampledImageUpdateAfterBind : 1
+info:    descriptorBindingUpdateUnusedWhilePending : 1
+info:    descriptorBindingPartiallyBound : 1
+info:    drawIndirectCount              : 1
+info:    hostQueryReset                 : 1
+info:    runtimeDescriptorArray         : 1
+info:    samplerFilterMinmax            : 1
+info:    samplerMirrorClampToEdge       : 1
+info:    scalarBlockLayout              : 1
+info:    shaderFloat16                  : 1
+info:    shaderInt8                     : 1
+info:    shaderOutputViewportIndex      : 1
+info:    shaderOutputLayer              : 1
+info:    timelineSemaphore              : 1
+info:    uniformBufferStandardLayout    : 1
+info:    vulkanMemoryModel              : 1
+info:    inlineUniformBlock             : 1
+info:    computeFullSubgroups           : 1
+info:    dynamicRendering               : 1
+info:    maintenance4                   : 1
+info:    robustImageAccess              : 0
+info:    pipelineCreationCacheControl   : 1
+info:    shaderDemoteToHelperInvocation : 1
+info:    shaderZeroInitializeWorkgroupMemory : 1
+info:    subgroupSizeControl            : 1
+info:    synchronization2               : 1
+info:  VK_EXT_attachment_feedback_loop_layout:
+info:    attachmentFeedbackLoopLayout   : 1
+info:  VK_EXT_border_color_swizzle:
+info:    borderColorSwizzle             : 1
+info:    borderColorSwizzleFromImage    : 0
+info:  VK_EXT_conservative_rasterization:
+info:    extConservativeRasterization   : 1
+info:  VK_EXT_custom_border_color:
+info:    customBorderColors             : 1
+info:    customBorderColorWithoutFormat : 1
+info:  VK_EXT_depth_clip_enable:
+info:    depthClipEnable                : 1
+info:  VK_EXT_depth_bias_control:
+info:    depthBiasControl               : 1
+info:    leastRepresentableValueForceUnormRepresentation : 1
+info:    floatRepresentation            : 0
+info:    depthBiasExact                 : 1
+info:  VK_EXT_descriptor_buffer:
+info:    descriptorBuffer               : 1
+info:  VK_EXT_descriptor_heap:
+info:    descriptorHeap                 : 0
+info:  VK_EXT_dynamic_rendering_unused_attachments:
+info:    dynamicRenderingUnusedAttachments : 1
+info:  VK_EXT_extended_dynamic_state3:
+info:    extendedDynamicState3AlphaToCoverageEnable : 1
+info:    extendedDynamicState3DepthClipEnable : 1
+info:    extendedDynamicState3RasterizationSamples : 1
+info:    extendedDynamicState3SampleMask : 1
+info:    extendedDynamicState3LineRasterizationMode : 1
+info:    extendedDynamicState3SampleLocationsEnable : 1
+info:  VK_EXT_fragment_shader_interlock:
+info:    fragmentShaderSampleInterlock  : 1
+info:    fragmentShaderPixelInterlock   : 1
+info:  VK_EXT_full_screen_exclusive:
+info:    extFullScreenExclusive         : 0
+info:  VK_EXT_graphics_pipeline_library:
+info:    graphicsPipelineLibrary        : 1
+info:  VK_EXT_hdr_metadata:
+info:    extHdrMetadata                 : 0
+info:  VK_EXT_line_rasterization:
+info:    rectangularLines               : 1
+info:    smoothLines                    : 1
+info:  VK_EXT_memory_budget:
+info:    extMemoryBudget                : 1
+info:  VK_EXT_memory_priority:
+info:    memoryPriority                 : 1
+info:  VK_EXT_multi_draw:
+info:    multiDraw                      : 1
+info:  VK_EXT_non_seamless_cube_map:
+info:    nonSeamlessCubeMap             : 1
+info:  VK_EXT_pageable_device_local_memory:
+info:    pageableDeviceLocalMemory      : 1
+info:  VK_EXT_robustness2:
+info:    robustBufferAccess2            : 1
+info:    robustImageAccess2             : 1
+info:    nullDescriptor                 : 1
+info:  VK_EXT_sample_locations:
+info:    extSampleLocations             : 1
+info:  VK_EXT_shader_module_identifier:
+info:    shaderModuleIdentifier         : 1
+info:  VK_EXT_shader_stencil_export:
+info:    extShaderStencilExport         : 0
+info:  VK_EXT_swapchain_colorspace:
+info:    extSwapchainColorSpace         : 0
+info:  VK_EXT_swapchain_maintenance1:
+info:    swapchainMaintenance1          : 1
+info:  VK_EXT_transform_feedback:
+info:    transformFeedback              : 1
+info:    geometryStreams                : 1
+info:  VK_EXT_vertex_attribute_divisor:
+info:    vertexAttributeInstanceRateDivisor : 1
+info:    vertexAttributeInstanceRateZeroDivisor : 1
+info:  VK_KHR_device_fault:
+info:    deviceFault                    : 0
+info:    deviceFaultVendorBinary        : 0
+info:  VK_KHR_dynamic_rendering_local_read:
+info:    dynamicRenderingLocalRead      : 1
+info:  VK_KHR_external_memory_win32:
+info:    khrExternalMemoryWin32         : 1
+info:  VK_KHR_external_semaphore_win32:
+info:    khrExternalSemaphoreWin32      : 1
+info:  VK_KHR_incremental_present:
+info:    khrIncrementalPresent          : 1
+info:  VK_KHR_load_store_op_none:
+info:    khrLoadStoreOpNone             : 1
+info:  VK_KHR_maintenance5:
+info:    maintenance5                   : 1
+info:  VK_KHR_maintenance6:
+info:    maintenance6                   : 1
+info:  VK_KHR_maintenance7:
+info:    maintenance7                   : 1
+info:  VK_KHR_maintenance8:
+info:    maintenance8                   : 1
+info:  VK_KHR_maintenance9:
+info:    maintenance9                   : 0
+info:  VK_KHR_maintenance10:
+info:    maintenance10                  : 0
+info:  VK_KHR_maintenance11:
+info:    maintenance11                  : 0
+info:  VK_KHR_pipeline_library:
+info:    khrPipelineLibrary             : 1
+info:  VK_KHR_present_id:
+info:    presentId                      : 1
+info:  VK_KHR_present_id2:
+info:    presentId2                     : 0
+info:  VK_KHR_present_wait:
+info:    presentWait                    : 1
+info:  VK_KHR_present_wait2:
+info:    presentWait2                   : 0
+info:  VK_KHR_shader_float_controls2:
+info:    shaderFloatControls2           : 1
+info:  VK_KHR_shader_subgroup_uniform_control_flow:
+info:    shaderSubgroupUniformControlFlow : 1
+info:  VK_KHR_shader_untyped_pointers:
+info:    shaderUntypedPointers          : 0
+info:  VK_KHR_swapchain:
+info:    khrSwapchain                   : 1
+info:  VK_KHR_swapchain_maintenance1:
+info:    swapchainMaintenance1          : 0
+info:  VK_KHR_swapchain_mutable_format:
+info:    khrSwapchainMutableFormat      : 1
+info:  VK_KHR_unified_image_layouts:
+info:    unifiedImageLayouts            : 0
+info:  VK_KHR_win32_keyed_mutex:
+info:    khrWin32KeyedMutex             : 1
+info:  VK_AMD_buffer_marker:
+info:    amdBufferMarker                : 0
+info:  VK_NV_device_diagnostic_checkpoints:
+info:    nvDeviceDiagnosticCheckpoints  : 0
+info:  VK_NV_low_latency2:
+info:    nvLowLatency2                  : 1
+info:  VK_NV_raw_access_chains:
+info:    shaderRawAccessChains          : 1
+info:  VK_NVX_binary_import:
+info:    nvxBinaryImport                : 1
+info:  VK_NVX_image_view_handle:
+info:    nvxImageViewHandle             : 1
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0xd3c,0x81bb20,0x00000010,(nil)) stub
+09ec:fixme:seh:WerRegisterRuntimeExceptionModule (L"C:\\users\\cyc-mint\\AppData\\Local\\Programs\\Quark\\7.4.9.1045\\quark_wer.dll", 00006FFFFC2838F0) stub
+03a0:fixme:combase:RoGetActivationFactory (L"Windows.Media.ClosedCaptioning.ClosedCaptionProperties", {10aa1f84-cc30-4141-b503-5272289e0c20}, 00000000008192A8): semi-stub
+03a0:fixme:media:captions_get_FontSize iface 00006FFFFDB15048, value 00000000008192A4 semi-stub.
+03a0:fixme:media:captions_get_FontEffect iface 00006FFFFDB15048, value 00000000008192A0 semi-stub.
+03a0:fixme:media:captions_get_FontStyle iface 00006FFFFDB15048, value 000000000081929C semi-stub.
+03a0:fixme:media:captions_get_FontColor iface 00006FFFFDB15048, value 0000000000819298 semi-stub.
+03a0:fixme:media:captions_get_FontOpacity iface 00006FFFFDB15048, value 0000000000819294 semi-stub.
+03a0:fixme:media:captions_get_BackgroundColor iface 00006FFFFDB15048, value 0000000000819290 semi-stub.
+03a0:fixme:media:captions_get_BackgroundOpacity iface 00006FFFFDB15048, value 000000000081928C semi-stub.
+03a0:fixme:media:captions_get_RegionColor iface 00006FFFFDB15048, value 0000000000819288 semi-stub.
+03a0:fixme:media:captions_get_RegionOpacity iface 00006FFFFDB15048, value 0000000000819284 semi-stub.
+0574:fixme:ntdll:NtFilterToken flags 0x1 unsupported
+0574:fixme:ntdll:NtFilterToken support for restricting sids not yet implemented
+0574:fixme:advapi:SetEntriesInAclW unhandled access mode 4
+0574:fixme:ntdll:NtSetInformationToken TokenIntegrityLevel stub!
+0574:fixme:ntdll:NtFilterToken support for restricting sids not yet implemented
+0574:fixme:advapi:SetEntriesInAclW unhandled access mode 4
+0574:fixme:ntdll:NtSetInformationToken TokenIntegrityLevel stub!
+0574:fixme:sync:NtSetInformationJobObject stub: 0x1110 4 0x1d80eb4c 4
+0574:fixme:process:GetProcessMitigationPolicy (FFFFFFFFFFFFFFFF, 5, 000000014037EED0, 16): stub
+0574:fixme:process:validate_proc_thread_attribute Unhandled attribute 26
+04bc:fixme:process:create_nt_process Unsupported attribute 0x2000e.
+03a0:fixme:win:create_window_handle DPI context 0x22 not implemented
+03a0:fixme:manipulation:viewport_ActivateConfiguration 0000000015DB32C0, 823
+03a0:fixme:manipulation:viewport_SetViewportOptions 0000000015DB32C0, 2
+03a0:fixme:manipulation:viewport_SetViewportRect 0000000015DB32C0, 000000000081D150
+03a0:fixme:manipulation:direct_manip_Activate 0000000015DB31D0, 0000000000010120
+03a0:fixme:manipulation:viewport_Abandon 0000000015DB32C0
+03a0:fixme:win:create_window_handle DPI context 0x22 not implemented
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+03a0:fixme:dwmapi:DwmExtendFrameIntoClientArea (0000000000010122, 000000000081C070) stub
+03a0:fixme:uxtheme:AllowDarkModeForWindow 0000000000010122 1: stub
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+03a0:fixme:combase:RoGetActivationFactory (L"Windows.Media.ClosedCaptioning.ClosedCaptionProperties", {10aa1f84-cc30-4141-b503-5272289e0c20}, 00000000008192A8): semi-stub
+03a0:fixme:media:captions_get_FontSize iface 00006FFFFDB15048, value 00000000008192A4 semi-stub.
+03a0:fixme:media:captions_get_FontEffect iface 00006FFFFDB15048, value 00000000008192A0 semi-stub.
+03a0:fixme:media:captions_get_FontStyle iface 00006FFFFDB15048, value 000000000081929C semi-stub.
+03a0:fixme:media:captions_get_FontColor iface 00006FFFFDB15048, value 0000000000819298 semi-stub.
+03a0:fixme:media:captions_get_FontOpacity iface 00006FFFFDB15048, value 0000000000819294 semi-stub.
+03a0:fixme:media:captions_get_BackgroundColor iface 00006FFFFDB15048, value 0000000000819290 semi-stub.
+03a0:fixme:media:captions_get_BackgroundOpacity iface 00006FFFFDB15048, value 000000000081928C semi-stub.
+03a0:fixme:media:captions_get_RegionColor iface 00006FFFFDB15048, value 0000000000819288 semi-stub.
+03a0:fixme:media:captions_get_RegionOpacity iface 00006FFFFDB15048, value 0000000000819284 semi-stub.
+03a0:fixme:win:create_window_handle DPI context 0x22 not implemented
+03a0:fixme:manipulation:viewport_ActivateConfiguration 0000000015DB3350, 823
+03a0:fixme:manipulation:viewport_SetViewportOptions 0000000015DB3350, 2
+03a0:fixme:manipulation:viewport_SetViewportRect 0000000015DB3350, 000000000081D150
+03a0:fixme:manipulation:direct_manip_Activate 0000000015DB3260, 0000000000010128
+03a0:fixme:manipulation:viewport_Abandon 0000000015DB3350
+03a0:fixme:combase:RoGetActivationFactory (L"Windows.Media.ClosedCaptioning.ClosedCaptionProperties", {10aa1f84-cc30-4141-b503-5272289e0c20}, 00000000008192B8): semi-stub
+03a0:fixme:media:captions_get_FontSize iface 00006FFFFDB15048, value 00000000008192B4 semi-stub.
+03a0:fixme:media:captions_get_FontEffect iface 00006FFFFDB15048, value 00000000008192B0 semi-stub.
+03a0:fixme:media:captions_get_FontStyle iface 00006FFFFDB15048, value 00000000008192AC semi-stub.
+03a0:fixme:media:captions_get_FontColor iface 00006FFFFDB15048, value 00000000008192A8 semi-stub.
+03a0:fixme:media:captions_get_FontOpacity iface 00006FFFFDB15048, value 00000000008192A4 semi-stub.
+03a0:fixme:media:captions_get_BackgroundColor iface 00006FFFFDB15048, value 00000000008192A0 semi-stub.
+03a0:fixme:media:captions_get_BackgroundOpacity iface 00006FFFFDB15048, value 000000000081929C semi-stub.
+03a0:fixme:media:captions_get_RegionColor iface 00006FFFFDB15048, value 0000000000819298 semi-stub.
+03a0:fixme:media:captions_get_RegionOpacity iface 00006FFFFDB15048, value 0000000000819294 semi-stub.
+0840:fixme:powrprof:PowerRegisterSuspendResumeNotification (0x00000002,000000000081EF00,000000000081EF38) stub!
+0840:fixme:process:SetProcessShutdownParameters (0000027f, 00000001): partial stub.
+03a0:fixme:win:create_window_handle DPI context 0x22 not implemented
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+0840:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0840:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0840:fixme:heap:RtlSetHeapInformation HEAP_INFORMATION_CLASS 1 not implemented!
+03a0:fixme:manipulation:viewport_ActivateConfiguration 0000000015DB3380, 823
+03a0:fixme:manipulation:viewport_SetViewportOptions 0000000015DB3380, 2
+03a0:fixme:manipulation:viewport_SetViewportRect 0000000015DB3380, 000000000081D160
+03a0:fixme:manipulation:direct_manip_Activate 0000000015DB32F0, 000000000001012A
+03a0:fixme:manipulation:viewport_Abandon 0000000015DB3380
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+04b8:fixme:dwmapi:DwmGetWindowAttribute attribute 14 not implemented.
+0840:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+08e8:fixme:thread:QueryThreadCycleTime (FFFFFFFFFFFFFFFE,000000000939F5F0): stub!
+0840:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {00000000-0000-0000-0000-000000000000}
+0840:fixme:process:GetProcessMitigationPolicy (FFFFFFFFFFFFFFFF, 4, 000000000081F3F0, 4): stub
+0840:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 00000C00000E40D8, 16) stub
+07f4:fixme:winsock:setsockopt Ignoring SO_RANDOMIZE_PORT
+0674:fixme:winsock:setsockopt Ignoring SO_RANDOMIZE_PORT
+0a58:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0830:fixme:ntdll:NtSetInformationToken TokenIntegrityLevel stub!
+0a60:fixme:thread:NtSetInformationThread info class 24 not supported yet
+0a60:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0830:fixme:process:NtQueryInformationProcess ProcessHandleCount (0xffffffffffffffff,0x81eae4,0x00000004,(nil)) stub
+0830:fixme:process:NtQueryInformationProcess ProcessHandleTable (0xffffffffffffffff,0x79b000095000,0x00000fa0,0x81eae8) stub
+0830:fixme:process:SetProcessMitigationPolicy (8, 000000000081EBA0, 4): stub
+0840:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0a70:fixme:thread:NtSetInformationThread info class 24 not supported yet
+0a70:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0a74:fixme:thread:NtSetInformationThread ThreadPowerThrottling stub!
+0840:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 00006FFFFAE102ED, 8) stub
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0xec4,0x81e110,0x00000010,(nil)) stub
+063c:fixme:dwrite:dwritefontface5_HasVariations 0000000000F080A0: stub
+03a0:fixme:process:GetProcessInformation Unsupported information class 4.
+03a0:fixme:process:NtQueryInformationProcess ProcessCycleTime (0x1180,0x81de80,0x00000010,(nil)) stub
+07f4:fixme:winsock:setsockopt Ignoring SO_RANDOMIZE_PORT
+info:  Descriptor sizes (set alignment: 64)
+info:    Sampler              : 4
+info:    Uniform buffer       : 8
+info:    Storage buffer       : 16
+info:    Uniform texel buffer : 16
+info:    Storage texel buffer : 16
+info:    Sampled image        : 4
+info:    Storage image        : 4
+info:    Input attachment     : 4
+info:  Memory type mask for sparse resources: 0x2
+info:  Memory type mask for buffer resources: 0x3b, usage: 0x219ff
+info:  Creating sampler descriptor heap (8 kB)
+info:  Graphics pipeline libraries supported
