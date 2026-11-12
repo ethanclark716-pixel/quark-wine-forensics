@@ -1,6 +1,6 @@
-# Quark Cloud Drive PC 7.4.x fails under Wine — first documented crash scene
+# Quark Cloud Drive PC 7.4.x under Wine: a documented failure record
 
-# 夸克网盘 PC 7.4.x 在 Wine 下静默死亡 — 首份完整现场记录
+# 夸克网盘 PC 7.4.x 在 Wine 下无法运行：一份现场记录
 
 **Version documented / 记录版本**: Quark PC **7.4.9.1045** (current latest as of 2026-11-13; earlier reports of 7.4.5.1027 show the same behavior)
 **Date / 日期**: 2026-11-13
@@ -10,15 +10,17 @@
 
 ## TL;DR
 
-Quark PC 7.4.x (Alibaba's cloud drive client, rebuilt in 2026-10 on their in-house Chromium fork + "Node Quantum" AI engine) **does not crash — it silently dies**. Across two instrumented runs:
+Quark PC 7.4.x (Alibaba's cloud drive client, rebuilt in 2026-10 on their in-house Chromium fork + "Node Quantum" AI engine) fails under Wine without an error message. Across two instrumented runs:
 
 - **121–145 distinct processes** spawn, then all terminate **within ~2 minutes**
 - Every process exits **cleanly (exit code 0)** — no unhandled exception, no crash dialog, no crashpad dump
-- The captured Wine log **ends mid-initialization** of a vkd3d/DXVK descriptor heap (a renderer process dying in its crib)
-- One concrete loader failure: **`onnxruntime.dll` (the AI engine runtime) fails to import `dbghelp.dll`** — even though dbghelp.dll is present in the prefix
-- Contrast: **Quark 7.3.5.810 (previous-generation kernel) runs perfectly** in the same setup, same runner, same machine
+- The captured Wine log **ends during initialization** of a vkd3d/DXVK descriptor heap
+- One concrete loader failure: **`onnxruntime.dll` (the AI engine runtime) reports `dbghelp.dll` as not found** — even though dbghelp.dll is present in the prefix
+- Contrast: **Quark 7.3.5.810 (previous-generation kernel) runs without problems** in the same setup, same runner, same machine
 
-中文一句话：新版夸克不是"崩溃"，是**集体无声死亡**——121~145 个进程在约两分钟内全部以退出码 0 消失，日志终止在渲染进程初始化半途，无异常、无崩溃转储；且抓到一个具体加载缺陷：自研 AI 引擎的 `onnxruntime.dll` 报 `dbghelp.dll not found`（但该文件明明存在）。
+中文摘要：新版夸克在 Wine 下没有报错，也没有崩溃对话框——121~145 个进程在约两分钟内全部退出，退出码均为 0，日志终止在渲染进程初始化中途，未留崩溃转储。另有一个具体的加载缺陷：AI 引擎的 `onnxruntime.dll` 报 `dbghelp.dll not found`，而该文件实际存在于容器中。
+
+> 标题未称"首次"：截至 2026-11-13，我们在 WineHQ、GitHub、中文社区检索后未找到其他公开的现场记录，故发布本文；如有更早记录欢迎指出。
 
 ---
 
@@ -43,7 +45,7 @@ Quark PC 7.4.x (Alibaba's cloud drive client, rebuilt in 2026-10 on their in-hou
 
 ## Findings / 发现（按证据强度排序）
 
-### 1. Silent mass termination — no crash at all / 无声集体死亡，根本没有"崩溃"
+### 1. Processes terminate on their own, without an error / 进程自行退出，没有报错
 
 Run 2 with `WINEDEBUG=+seh`: **zero** unhandled exceptions. The only exception codes seen:
 
@@ -53,13 +55,13 @@ Run 2 with `WINEDEBUG=+seh`: **zero** unhandled exceptions. The only exception c
 | 0x406d1388 | 5 | Thread-name setting — benign |
 | 0x6ba | 3 | RPC_S_SERVER_UNAVAILABLE — Wine lacks the RPC endpoint |
 
-Wine itself reports `Result=success, ExecMainStatus=0`. Processes die **by their own hand**, quietly.
+Wine itself reports `Result=success, ExecMainStatus=0`. The processes end on their own.
 
-中文：全程没有一个未处理异常，wine 返回"正常退出"。进程是**自己安静地走的**——这正是普通用户描述"突然没了/卡死"的微观真相。
+中文：全程没有未处理异常，wine 返回"正常退出"。进程是自行结束的——这对应普通用户看到的"突然消失/卡死"。
 
-### 2. Renderer dies mid-initialization / 渲染进程初始化半途夭折
+### 2. Renderer initialization interrupted / 渲染进程初始化中途停止
 
-Both runs end abruptly in the middle of vkd3d/DXVK descriptor-heap setup:
+Both runs end in the middle of vkd3d/DXVK descriptor-heap setup:
 
 ```
 info:  Memory type mask for buffer resources: 0x3b, usage: 0x219ff
@@ -77,13 +79,15 @@ No further output. The next renderer/GPU process never finishes coming up.
 L"C:\\users\\cyc-mint\\AppData\\Local\\Programs\\Quark\\7.4.9.1045\\onnxruntime.dll") not found
 ```
 
-Verified facts making this odd / 已验证的怪异之处:
+Verified facts making this odd / 已验证的情况:
 
 - `dbghelp.dll` **exists** as a 64-bit PE in `windows/system32` (883 KB, wine builtin copy)
 - The runner ships `lib/wine/x86_64-windows/dbghelp.dll`
 - `onnxruntime.dll` is x86-64
 - No DLL overrides configured; UCRT base (`ucrtbase.dll`) identical to a known-working prefix
 - This is the runtime of Quark's in-house AI stack ("Node Quantum" service, visible in process names)
+
+We have not identified the loader-level mechanism behind this message; pointing it out for upstream investigation. / 我们尚未查明这条报错在加载器层面的成因，留给上游调查。
 
 ### 4. WinRT / COM gaps / WinRT 与 COM 缺口
 
@@ -106,7 +110,7 @@ The renderer/broker processes query exactly the process-mitigation & token-integ
 ### 6. Quark's own crash collection captured nothing / 夸克自带的崩溃收集一无所获
 
 - `User Data/Crashpad/reports/` — **empty**
-- `quark_wer.dll` registers via `WerRegisterRuntimeExceptionModule` — Wine stubs this API (`fixme`), so Alibaba's custom WER channel is dead on arrival
+- `quark_wer.dll` registers via `WerRegisterRuntimeExceptionModule` — Wine stubs this API (`fixme`), so Alibaba's custom WER channel does not function
 - Per-process `ulog` files (proprietary `ULMF` binary format) exist but contain no plaintext
 
 ### 7. Installer behavior (context, not a bug) / 安装器行为
@@ -140,7 +144,7 @@ Quark **7.3.5.810** (previous kernel generation) installs and runs stably in the
 ## What would help / 希望得到的帮助
 
 1. Why does `import_dll` report `dbghelp.dll` "not found" when a valid 64-bit copy sits in system32? (Happens for `onnxruntime.dll` only; other modules import fine.)
-2. Is there a known Wine gap for the stub combination in Finding 5 that would explain silent process self-termination?
+2. Is there a known Wine gap for the stub combination in Finding 5 that would explain the processes exiting on their own with exit code 0?
 3. AppDB has **no entry** for QuarkCloudDrive — this document can seed one.
 
 Contact: via this post's author / 通过发帖人联系。
@@ -151,7 +155,7 @@ Contact: via this post's author / 通过发帖人联系。
 - `logs/run2.log` — run 2, 2592 lines, `WINEDEBUG=+seh`, 121 processes, 36 SEH dispatch traces
 - `evidence/ulog/*.ulog` — Quark's proprietary per-process logs (ULMF binary, offered for reverse engineering)
 - `evidence/debug.log` — Quark's own text log (rollback manager lines only)
-- `evidence/installer-stub.exe` — the exact official stub used (SHA256: `7b1ee800c152444ea6a247867d0f919b8531f93d07517aced2d9564053fb7fe0`)
+- `evidence/installer-stub.exe` — the exact official stub used (SHA256 available on request)
 
 ---
 
